@@ -1,0 +1,386 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tfrmmain.btnconnectoptions.caption
+msgctxt "tfrmmain.btnconnectoptions.caption"
+msgid "..."
+msgstr "……"
+
+#: tfrmmain.btncopyall_log.caption
+msgctxt "TFRMMAIN.BTNCOPYALL_LOG.CAPTION"
+msgid "copy all"
+msgstr "全部复制"
+
+#: tfrmmain.btnselectlogfilename.caption
+msgctxt "TFRMMAIN.BTNSELECTLOGFILENAME.CAPTION"
+msgid "..."
+msgstr "……"
+
+#: tfrmmain.caption
+msgid "Neato Control"
+msgstr "Neato控制台"
+
+#: tfrmmain.chautoconnect.caption
+msgid "Auto connect on plug"
+msgstr "插入后自动连接"
+
+#: tfrmmain.chautodetectport.caption
+msgid "Auto detect port number"
+msgstr "自动检测串口号"
+
+#: tfrmmain.chbrush.caption
+msgid "Brush"
+msgstr "主刷"
+
+#: tfrmmain.chdrawradialstate.caption
+msgid "Show state"
+msgstr ""
+
+#: tfrmmain.chdrawradialstate.hint
+msgid "Blue - intensity, Green - length, Red - error, Black - not visible"
+msgstr ""
+
+#: tfrmmain.checkbox1.caption
+msgid "require rotate the robot to the up"
+msgstr "需要将机器底朝上"
+
+#: tfrmmain.chenableschedule.caption
+msgid "Schedule enabled"
+msgstr ""
+
+#: tfrmmain.chleftwheel.caption
+msgid "Left Wheel"
+msgstr "左轮"
+
+#: tfrmmain.chrightwheel.caption
+msgid "Right Wheel"
+msgstr "右轮"
+
+#: tfrmmain.chsavelogtofile.caption
+msgid "Save log to file"
+msgstr "保存记录到文件"
+
+#: tfrmmain.chsensorauto.caption
+msgid "Auto update"
+msgstr "自动更新"
+
+#: tfrmmain.chseparatecmd.caption
+msgid "Separate all cmd \"===\""
+msgstr "用\"===\"做命令分隔符"
+
+#: tfrmmain.chsidebrush.caption
+msgid "Side Brush"
+msgstr "侧边刷"
+
+#: tfrmmain.chvacuum.caption
+msgid "Vacuum"
+msgstr "风机"
+
+#: tfrmmain.edlogfilename.text
+msgid "log.txt"
+msgstr "log.txt"
+
+#: tfrmmain.edtranslateauthor.text
+msgid "Translate author: heX"
+msgstr "简体中文翻译： sk8021, xmysz"
+
+#: tfrmmain.groupbox4.caption
+#, fuzzy
+#| msgid "Schedule && Time"
+msgid "Schedule"
+msgstr "计划时间"
+
+#: tfrmmain.groupbox5.caption
+msgid "Version:"
+msgstr "版本："
+
+#: tfrmmain.groupboxtimers.caption
+msgid "Timers:"
+msgstr "循环周期："
+
+#: tfrmmain.label13.caption
+msgid "Commands list:"
+msgstr "命令列表："
+
+#: tfrmmain.label2.caption
+msgid "Step 1:"
+msgstr "第一步："
+
+#: tfrmmain.label3.caption
+msgid "Step 2:"
+msgstr "第二步："
+
+#: tfrmmain.label4.caption
+msgid "Step 3:"
+msgstr "第三步："
+
+#: tfrmmain.label5.caption
+msgid "Step 4:"
+msgstr "第四步："
+
+#: tfrmmain.label6.caption
+msgid "Step 5:"
+msgstr "第五步："
+
+#: tfrmmain.label8.caption
+msgid "Translate: https://poeditor.com/join/project/EdLcbGzBsR"
+msgstr "翻译： https://poeditor.com/join/project/EdLcbGzBsR "
+
+#: tfrmmain.label9.caption
+msgid "WARNING: Rotate the robot so the wheels are facing up before enable wheels motor!"
+msgstr "警告：启动马达前请务必将轮子朝上！"
+
+#: tfrmmain.labelr4.caption
+msgid "F4"
+msgstr "F4"
+
+#: tfrmmain.labelr5.caption
+msgid "F5"
+msgstr "F5"
+
+#: tfrmmain.labelr6.caption
+msgid "F6"
+msgstr "F6"
+
+#: tfrmmain.labelr7.caption
+msgid "F7"
+msgstr "F7"
+
+#: tfrmmain.labelr8.caption
+msgid "F8"
+msgstr "F8"
+
+#: tfrmmain.labelr9.caption
+msgid "F9"
+msgstr "F9"
+
+#: tfrmmain.lbcomportn.caption
+msgid "COM Port name:"
+msgstr "串口号："
+
+#: tfrmmain.lbllang.caption
+msgid "Language:"
+msgstr "语言："
+
+#: tfrmmain.lbrobottime.caption
+msgid "00:00:00"
+msgstr "00:00:00"
+
+#: tfrmmain.lbrobottime2.caption
+msgid "Robot Time:"
+msgstr "机器时间："
+
+#: tfrmmain.lbwarnlowvoltage.caption
+msgid "Batt V < 12 V"
+msgstr "电池电压小于12伏"
+
+#: tfrmmain.lifestatlog.caption
+msgid "LifeStatLog"
+msgstr "寿命状态记录"
+
+#: tfrmmain.tabscan.caption
+msgid "Scanner"
+msgstr "地形扫描器"
+
+#: tfrmmain.tabsheet1.caption
+msgid "Motors"
+msgstr "电机"
+
+#: tfrmmain.tabsheet2.caption
+msgid "Sensors"
+msgstr "传感器"
+
+#: tfrmmain.tabsheet3.caption
+msgid "Options"
+msgstr "选项"
+
+#: tfrmmain.tabsheet4.caption
+msgid "Recharge"
+msgstr "深度充放电"
+
+#: tfrmmain.tabsheet5.caption
+msgid "About"
+msgstr "关于"
+
+#: tfrmmain.tabsheet6.caption
+msgid "Commands"
+msgstr "命令"
+
+#: tfrmmain.textcomportn.text
+msgid "COM1"
+msgstr "串口1"
+
+#: tmodulemain.actbtnsendcmd.caption
+#, fuzzy
+msgctxt "tmodulemain.actbtnsendcmd.caption"
+msgid "Run"
+msgstr "运行"
+
+#: tmodulemain.actchrenablebrush.caption
+msgctxt "tmodulemain.actchrenablebrush.caption"
+msgid "Enable Brush Motor and Disconnect"
+msgstr "启动主刷马达并断开连接"
+
+#: tmodulemain.actchrenablevaccum.caption
+msgctxt "tmodulemain.actchrenablevaccum.caption"
+msgid "Enable Vaccum Motor and Disconnect"
+msgstr "启动风机马达并断开连接"
+
+#: tmodulemain.actchrset100percentbattery.caption
+msgctxt "tmodulemain.actchrset100percentbattery.caption"
+msgid "Set 100% Battery"
+msgstr "设置当前电量为100%"
+
+#: tmodulemain.actconnect.caption
+#, fuzzy
+msgctxt "tmodulemain.actconnect.caption"
+msgid "Connect"
+msgstr "连接"
+
+#: tmodulemain.actcopysensordata.caption
+msgctxt "tmodulemain.actcopysensordata.caption"
+msgid "copy all"
+msgstr "全部复制"
+
+#: tmodulemain.actdisconnect.caption
+msgctxt "tmodulemain.actdisconnect.caption"
+msgid "Disconnect"
+msgstr "断开连接"
+
+#: tmodulemain.actgetlifestatlog.caption
+msgctxt "tmodulemain.actgetlifestatlog.caption"
+msgid "Get Log"
+msgstr "获取记录"
+
+#: tmodulemain.actremotecontrol.caption
+msgctxt "tmodulemain.actremotecontrol.caption"
+msgid "Remote Control (push arrows)"
+msgstr "电脑控制（按键盘方向键）"
+
+#: tmodulemain.actscanlds.caption
+msgctxt "tmodulemain.actscanlds.caption"
+msgid "Scan LDS"
+msgstr "激光扫描"
+
+#: tmodulemain.actsetcurrenttime.caption
+msgctxt "tmodulemain.actsetcurrenttime.caption"
+msgid "Set time to Neato from computer"
+msgstr "同步电脑时间到Neato"
+
+#: tmodulemain.actsetschedule.caption
+msgctxt "tmodulemain.actsetschedule.caption"
+msgid "Save Schedule"
+msgstr "往机器写入计划任务"
+
+#: tmodulemain.acttestmodeenabled.caption
+msgctxt "tmodulemain.acttestmodeenabled.caption"
+msgid "Test mode enabled"
+msgstr ""
+
+#: tmodulemain.acttestmodeoff.caption
+msgctxt "tmodulemain.acttestmodeoff.caption"
+msgid "Disable"
+msgstr "禁用"
+
+#: tmodulemain.acttestmodeon.caption
+msgctxt "tmodulemain.acttestmodeon.caption"
+msgid "Enable"
+msgstr "启用"
+
+#: tmodulemain.mncopy.caption
+msgctxt "tmodulemain.mncopy.caption"
+msgid "Copy"
+msgstr "复制"
+
+#: ustrres.disable
+msgctxt "ustrres.disable"
+msgid "Disable"
+msgstr "禁用"
+
+#: ustrres.enable
+msgctxt "ustrres.enable"
+msgid "Enable"
+msgstr "启用"
+
+#: ustrres.errorcantopenportcom
+#, fuzzy
+msgctxt "ustrres.errorcantopenportcom"
+msgid "Can't open port COM"
+msgstr "不能打开串口"
+
+#: ustrres.errorcomportnotdetect
+#, fuzzy
+msgctxt "ustrres.errorcomportnotdetect"
+msgid "COM port not detect"
+msgstr "未检测到串口"
+
+#: ustrres.errorinvalidcomportnumber
+#, fuzzy
+msgctxt "ustrres.errorinvalidcomportnumber"
+msgid "invalid COM port number"
+msgstr "无效的串口号"
+
+#: ustrres.friday
+#, fuzzy
+msgctxt "ustrres.friday"
+msgid "Friday"
+msgstr "星期五"
+
+#: ustrres.monday
+#, fuzzy
+msgctxt "ustrres.monday"
+msgid "Monday"
+msgstr "星期一"
+
+#: ustrres.off
+#, fuzzy
+msgctxt "ustrres.off"
+msgid "off"
+msgstr "关"
+
+#: ustrres.runtimerinsecond
+msgid "in seconds"
+msgstr "秒"
+
+#: ustrres.saturday
+#, fuzzy
+msgctxt "ustrres.saturday"
+msgid "Saturday"
+msgstr "星期六"
+
+#: ustrres.sunday
+#, fuzzy
+msgctxt "ustrres.sunday"
+msgid "Sunday"
+msgstr "星期天"
+
+#: ustrres.textdisabled
+#, fuzzy
+msgctxt "ustrres.textdisabled"
+msgid "Disabled"
+msgstr "禁用"
+
+#: ustrres.textenabled
+#, fuzzy
+msgctxt "ustrres.textenabled"
+msgid "Enabled"
+msgstr "启用"
+
+#: ustrres.thursda
+#, fuzzy
+msgctxt "ustrres.thursda"
+msgid "Thursday"
+msgstr "星期四"
+
+#: ustrres.tuesday
+#, fuzzy
+msgctxt "ustrres.tuesday"
+msgid "Tuesday"
+msgstr "星期二"
+
+#: ustrres.wednesday
+#, fuzzy
+msgctxt "ustrres.wednesday"
+msgid "Wednesday"
+msgstr "星期三"
+

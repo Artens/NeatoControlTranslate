@@ -1,0 +1,369 @@
+﻿msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tfrmmain.btnconnectoptions.caption
+msgctxt "tfrmmain.btnconnectoptions.caption"
+msgid "..."
+msgstr ""
+
+#: tfrmmain.btncopyall_log.caption
+msgctxt "TFRMMAIN.BTNCOPYALL_LOG.CAPTION"
+msgid "copy all"
+msgstr ""
+
+#: tfrmmain.btnselectlogfilename.caption
+msgctxt "TFRMMAIN.BTNSELECTLOGFILENAME.CAPTION"
+msgid "..."
+msgstr ""
+
+#: tfrmmain.caption
+msgid "Neato Control"
+msgstr ""
+
+#: tfrmmain.chautoconnect.caption
+msgid "Auto connect on plug"
+msgstr ""
+
+#: tfrmmain.chautodetectport.caption
+msgid "Auto detect port number"
+msgstr ""
+
+#: tfrmmain.chbrush.caption
+msgid "Brush"
+msgstr ""
+
+#: tfrmmain.chdrawradialstate.caption
+msgid "Show state"
+msgstr ""
+
+#: tfrmmain.chdrawradialstate.hint
+msgid "Blue - intensity, Green - length, Red - error, Black - not visible"
+msgstr ""
+
+#: tfrmmain.checkbox1.caption
+msgid "require rotate the robot to the up"
+msgstr ""
+
+#: tfrmmain.chenableschedule.caption
+msgid "Schedule enabled"
+msgstr ""
+
+#: tfrmmain.chleftwheel.caption
+msgid "Left Wheel"
+msgstr ""
+
+#: tfrmmain.chrightwheel.caption
+msgid "Right Wheel"
+msgstr ""
+
+#: tfrmmain.chsavelogtofile.caption
+msgid "Save log to file"
+msgstr ""
+
+#: tfrmmain.chsensorauto.caption
+msgid "Auto update"
+msgstr ""
+
+#: tfrmmain.chseparatecmd.caption
+msgid "Separate all cmd \"===\""
+msgstr ""
+
+#: tfrmmain.chsidebrush.caption
+msgid "Side Brush"
+msgstr ""
+
+#: tfrmmain.chvacuum.caption
+msgid "Vacuum"
+msgstr ""
+
+#: tfrmmain.edlogfilename.text
+msgid "log.txt"
+msgstr ""
+
+#: tfrmmain.edtranslateauthor.text
+msgid "Translate author: heX"
+msgstr ""
+
+#: tfrmmain.groupbox4.caption
+msgid "Schedule"
+msgstr ""
+
+#: tfrmmain.groupbox5.caption
+msgid "Version:"
+msgstr ""
+
+#: tfrmmain.groupboxtimers.caption
+msgid "Timers:"
+msgstr ""
+
+#: tfrmmain.label13.caption
+msgid "Commands list:"
+msgstr ""
+
+#: tfrmmain.label2.caption
+msgid "Step 1:"
+msgstr ""
+
+#: tfrmmain.label3.caption
+msgid "Step 2:"
+msgstr ""
+
+#: tfrmmain.label4.caption
+msgid "Step 3:"
+msgstr ""
+
+#: tfrmmain.label5.caption
+msgid "Step 4:"
+msgstr ""
+
+#: tfrmmain.label6.caption
+msgid "Step 5:"
+msgstr ""
+
+#: tfrmmain.label8.caption
+msgid "Translate: https://poeditor.com/join/project/EdLcbGzBsR"
+msgstr ""
+
+#: tfrmmain.label9.caption
+msgid "WARNING: Rotate the robot so the wheels are facing up before enable wheels motor!"
+msgstr ""
+
+#: tfrmmain.labelr4.caption
+msgid "F4"
+msgstr ""
+
+#: tfrmmain.labelr5.caption
+msgid "F5"
+msgstr ""
+
+#: tfrmmain.labelr6.caption
+msgid "F6"
+msgstr ""
+
+#: tfrmmain.labelr7.caption
+msgid "F7"
+msgstr ""
+
+#: tfrmmain.labelr8.caption
+msgid "F8"
+msgstr ""
+
+#: tfrmmain.labelr9.caption
+msgid "F9"
+msgstr ""
+
+#: tfrmmain.lbcomportn.caption
+msgid "COM Port name:"
+msgstr ""
+
+#: tfrmmain.lbllang.caption
+msgid "Language:"
+msgstr ""
+
+#: tfrmmain.lbrobottime.caption
+msgid "00:00:00"
+msgstr ""
+
+#: tfrmmain.lbrobottime2.caption
+msgid "Robot Time:"
+msgstr ""
+
+#: tfrmmain.lbwarnlowvoltage.caption
+msgid "Batt V < 12 V"
+msgstr ""
+
+#: tfrmmain.lifestatlog.caption
+msgid "LifeStatLog"
+msgstr ""
+
+#: tfrmmain.tabscan.caption
+msgid "Scanner"
+msgstr ""
+
+#: tfrmmain.tabsheet1.caption
+msgid "Motors"
+msgstr ""
+
+#: tfrmmain.tabsheet2.caption
+msgid "Sensors"
+msgstr ""
+
+#: tfrmmain.tabsheet3.caption
+msgid "Options"
+msgstr ""
+
+#: tfrmmain.tabsheet4.caption
+msgid "Recharge"
+msgstr ""
+
+#: tfrmmain.tabsheet5.caption
+msgid "About"
+msgstr ""
+
+#: tfrmmain.tabsheet6.caption
+msgid "Commands"
+msgstr ""
+
+#: tfrmmain.textcomportn.text
+msgid "COM1"
+msgstr ""
+
+#: tmodulemain.actbtnsendcmd.caption
+msgctxt "tmodulemain.actbtnsendcmd.caption"
+msgid "Run"
+msgstr ""
+
+#: tmodulemain.actchrenablebrush.caption
+msgctxt "TMODULEMAIN.ACTCHRENABLEBRUSH.CAPTION"
+msgid "Enable Brush Motor and Disconnect"
+msgstr ""
+
+#: tmodulemain.actchrenablevaccum.caption
+msgctxt "TMODULEMAIN.ACTCHRENABLEVACCUM.CAPTION"
+msgid "Enable Vaccum Motor and Disconnect"
+msgstr ""
+
+#: tmodulemain.actchrset100percentbattery.caption
+msgctxt "TMODULEMAIN.ACTCHRSET100PERCENTBATTERY.CAPTION"
+msgid "Set 100% Battery"
+msgstr ""
+
+#: tmodulemain.actconnect.caption
+msgctxt "TMODULEMAIN.ACTCONNECT.CAPTION"
+msgid "Connect"
+msgstr ""
+
+#: tmodulemain.actcopysensordata.caption
+msgctxt "TMODULEMAIN.ACTCOPYSENSORDATA.CAPTION"
+msgid "copy all"
+msgstr ""
+
+#: tmodulemain.actdisconnect.caption
+msgctxt "TMODULEMAIN.ACTDISCONNECT.CAPTION"
+msgid "Disconnect"
+msgstr ""
+
+#: tmodulemain.actgetlifestatlog.caption
+msgctxt "TMODULEMAIN.ACTGETLIFESTATLOG.CAPTION"
+msgid "Get Log"
+msgstr ""
+
+#: tmodulemain.actremotecontrol.caption
+msgctxt "TMODULEMAIN.ACTREMOTECONTROL.CAPTION"
+msgid "Remote Control (push arrows)"
+msgstr ""
+
+#: tmodulemain.actscanlds.caption
+msgctxt "TMODULEMAIN.ACTSCANLDS.CAPTION"
+msgid "Scan LDS"
+msgstr ""
+
+#: tmodulemain.actsetcurrenttime.caption
+msgctxt "TMODULEMAIN.ACTSETCURRENTTIME.CAPTION"
+msgid "Set time to Neato from computer"
+msgstr ""
+
+#: tmodulemain.actsetschedule.caption
+msgctxt "TMODULEMAIN.ACTSETSCHEDULE.CAPTION"
+msgid "Save Schedule"
+msgstr ""
+
+#: tmodulemain.acttestmodeenabled.caption
+msgctxt "TMODULEMAIN.ACTTESTMODEENABLED.CAPTION"
+msgid "Test mode enabled"
+msgstr ""
+
+#: tmodulemain.acttestmodeoff.caption
+msgctxt "TMODULEMAIN.ACTTESTMODEOFF.CAPTION"
+msgid "Disable"
+msgstr ""
+
+#: tmodulemain.acttestmodeon.caption
+msgctxt "TMODULEMAIN.ACTTESTMODEON.CAPTION"
+msgid "Enable"
+msgstr ""
+
+#: tmodulemain.mncopy.caption
+msgctxt "TMODULEMAIN.MNCOPY.CAPTION"
+msgid "Copy"
+msgstr ""
+
+#: ustrres.disable
+msgctxt "ustrres.disable"
+msgid "Disable"
+msgstr ""
+
+#: ustrres.enable
+msgctxt "ustrres.enable"
+msgid "Enable"
+msgstr ""
+
+#: ustrres.errorcantopenportcom
+msgctxt "ustrres.errorcantopenportcom"
+msgid "Can't open port COM"
+msgstr ""
+
+#: ustrres.errorcomportnotdetect
+msgctxt "ustrres.errorcomportnotdetect"
+msgid "COM port not detect"
+msgstr ""
+
+#: ustrres.errorinvalidcomportnumber
+msgctxt "ustrres.errorinvalidcomportnumber"
+msgid "invalid COM port number"
+msgstr ""
+
+#: ustrres.friday
+msgctxt "ustrres.friday"
+msgid "Friday"
+msgstr ""
+
+#: ustrres.monday
+msgctxt "ustrres.monday"
+msgid "Monday"
+msgstr ""
+
+#: ustrres.off
+msgctxt "ustrres.off"
+msgid "off"
+msgstr ""
+
+#: ustrres.runtimerinsecond
+msgid "in seconds"
+msgstr ""
+
+#: ustrres.saturday
+msgctxt "ustrres.saturday"
+msgid "Saturday"
+msgstr ""
+
+#: ustrres.sunday
+msgctxt "ustrres.sunday"
+msgid "Sunday"
+msgstr ""
+
+#: ustrres.textdisabled
+msgctxt "ustrres.textdisabled"
+msgid "Disabled"
+msgstr ""
+
+#: ustrres.textenabled
+msgctxt "ustrres.textenabled"
+msgid "Enabled"
+msgstr ""
+
+#: ustrres.thursda
+msgctxt "ustrres.thursda"
+msgid "Thursday"
+msgstr ""
+
+#: ustrres.tuesday
+msgctxt "ustrres.tuesday"
+msgid "Tuesday"
+msgstr ""
+
+#: ustrres.wednesday
+msgctxt "ustrres.wednesday"
+msgid "Wednesday"
+msgstr ""
+

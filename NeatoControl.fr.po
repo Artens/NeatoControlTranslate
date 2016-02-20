@@ -1,0 +1,385 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tfrmmain.btnconnectoptions.caption
+msgctxt "tfrmmain.btnconnectoptions.caption"
+msgid "..."
+msgstr "..."
+
+#: tfrmmain.btncopyall_log.caption
+msgctxt "TFRMMAIN.BTNCOPYALL_LOG.CAPTION"
+msgid "copy all"
+msgstr "copier tous"
+
+#: tfrmmain.btnselectlogfilename.caption
+msgctxt "TFRMMAIN.BTNSELECTLOGFILENAME.CAPTION"
+msgid "..."
+msgstr "..."
+
+#: tfrmmain.caption
+msgid "Neato Control"
+msgstr "Contrôle Neato"
+
+#: tfrmmain.chautoconnect.caption
+msgid "Auto connect on plug"
+msgstr "Auto connect sur bougie"
+
+#: tfrmmain.chautodetectport.caption
+msgid "Auto detect port number"
+msgstr "Auto détecter numéro de port"
+
+#: tfrmmain.chbrush.caption
+msgid "Brush"
+msgstr "Brosse"
+
+#: tfrmmain.chdrawradialstate.caption
+msgid "Show state"
+msgstr ""
+
+#: tfrmmain.chdrawradialstate.hint
+msgid "Blue - intensity, Green - length, Red - error, Black - not visible"
+msgstr ""
+
+#: tfrmmain.checkbox1.caption
+msgid "require rotate the robot to the up"
+msgstr "exiger tourner le robot à la place"
+
+#: tfrmmain.chenableschedule.caption
+msgid "Schedule enabled"
+msgstr ""
+
+#: tfrmmain.chleftwheel.caption
+msgid "Left Wheel"
+msgstr "Roue gauche"
+
+#: tfrmmain.chrightwheel.caption
+msgid "Right Wheel"
+msgstr "Roue droite"
+
+#: tfrmmain.chsavelogtofile.caption
+msgid "Save log to file"
+msgstr "Enregistrer le journal pour déposer"
+
+#: tfrmmain.chsensorauto.caption
+msgid "Auto update"
+msgstr "Mise à jour automatique"
+
+#: tfrmmain.chseparatecmd.caption
+msgid "Separate all cmd \"===\""
+msgstr "Séparez toute cmd \"===\""
+
+#: tfrmmain.chsidebrush.caption
+msgid "Side Brush"
+msgstr "Brosse Latérale"
+
+#: tfrmmain.chvacuum.caption
+msgid "Vacuum"
+msgstr "Vide"
+
+#: tfrmmain.edlogfilename.text
+msgid "log.txt"
+msgstr "log.txt"
+
+#: tfrmmain.edtranslateauthor.text
+msgid "Translate author: heX"
+msgstr "Traduire auteur: Hex"
+
+#: tfrmmain.groupbox4.caption
+#, fuzzy
+#| msgid "Schedule && Time"
+msgid "Schedule"
+msgstr "Horaire"
+
+#: tfrmmain.groupbox5.caption
+msgid "Version:"
+msgstr "Version:"
+
+#: tfrmmain.groupboxtimers.caption
+msgid "Timers:"
+msgstr "Timers:"
+
+#: tfrmmain.label13.caption
+msgid "Commands list:"
+msgstr "Liste Commandes:"
+
+#: tfrmmain.label2.caption
+msgid "Step 1:"
+msgstr "Étape 1:"
+
+#: tfrmmain.label3.caption
+msgid "Step 2:"
+msgstr "Étape 2:"
+
+#: tfrmmain.label4.caption
+msgid "Step 3:"
+msgstr "Etape 3:"
+
+#: tfrmmain.label5.caption
+msgid "Step 4:"
+msgstr "Étape 4:"
+
+#: tfrmmain.label6.caption
+msgid "Step 5:"
+msgstr "Etape 5:"
+
+#: tfrmmain.label8.caption
+msgid "Translate: https://poeditor.com/join/project/EdLcbGzBsR"
+msgstr "Traduire: https://poeditor.com/join/project/EdLcbGzBsR"
+
+#: tfrmmain.label9.caption
+msgid "WARNING: Rotate the robot so the wheels are facing up before enable wheels motor!"
+msgstr "AVERTISSEMENT: Faites tourner le robot pour que les roues sont confrontés avant permettent de moteur roues!"
+
+#: tfrmmain.labelr4.caption
+msgid "F4"
+msgstr "F4"
+
+#: tfrmmain.labelr5.caption
+msgid "F5"
+msgstr "F5"
+
+#: tfrmmain.labelr6.caption
+msgid "F6"
+msgstr "F6"
+
+#: tfrmmain.labelr7.caption
+msgid "F7"
+msgstr "F7"
+
+#: tfrmmain.labelr8.caption
+msgid "F8"
+msgstr "F8"
+
+#: tfrmmain.labelr9.caption
+msgid "F9"
+msgstr "F9"
+
+#: tfrmmain.lbcomportn.caption
+msgid "COM Port name:"
+msgstr "Nom du port COM:"
+
+#: tfrmmain.lbllang.caption
+msgid "Language:"
+msgstr "Langue:"
+
+#: tfrmmain.lbrobottime.caption
+msgid "00:00:00"
+msgstr "0:00:00"
+
+#: tfrmmain.lbrobottime2.caption
+msgid "Robot Time:"
+msgstr "Temps de Robot:"
+
+#: tfrmmain.lbwarnlowvoltage.caption
+msgid "Batt V < 12 V"
+msgstr "Batt V <12 V"
+
+#: tfrmmain.lifestatlog.caption
+msgid "LifeStatLog"
+msgstr "LifeStatLog"
+
+#: tfrmmain.tabscan.caption
+msgid "Scanner"
+msgstr "Scanner"
+
+#: tfrmmain.tabsheet1.caption
+msgid "Motors"
+msgstr "Motors"
+
+#: tfrmmain.tabsheet2.caption
+msgid "Sensors"
+msgstr "Capteurs"
+
+#: tfrmmain.tabsheet3.caption
+msgid "Options"
+msgstr "Options"
+
+#: tfrmmain.tabsheet4.caption
+msgid "Recharge"
+msgstr "Recharge"
+
+#: tfrmmain.tabsheet5.caption
+msgid "About"
+msgstr "Sur"
+
+#: tfrmmain.tabsheet6.caption
+msgid "Commands"
+msgstr "Commandes"
+
+#: tfrmmain.textcomportn.text
+msgid "COM1"
+msgstr "COM1"
+
+#: tmodulemain.actbtnsendcmd.caption
+#, fuzzy
+msgctxt "tmodulemain.actbtnsendcmd.caption"
+msgid "Run"
+msgstr "Course"
+
+#: tmodulemain.actchrenablebrush.caption
+msgctxt "tmodulemain.actchrenablebrush.caption"
+msgid "Enable Brush Motor and Disconnect"
+msgstr "Activer moteur de la brosse et Déconnecter"
+
+#: tmodulemain.actchrenablevaccum.caption
+msgctxt "tmodulemain.actchrenablevaccum.caption"
+msgid "Enable Vaccum Motor and Disconnect"
+msgstr "Activer Vaccum moteur et débranchez les"
+
+#: tmodulemain.actchrset100percentbattery.caption
+msgctxt "tmodulemain.actchrset100percentbattery.caption"
+msgid "Set 100% Battery"
+msgstr "Situé à 100% de la batterie"
+
+#: tmodulemain.actconnect.caption
+#, fuzzy
+msgctxt "tmodulemain.actconnect.caption"
+msgid "Connect"
+msgstr "Relier"
+
+#: tmodulemain.actcopysensordata.caption
+msgctxt "tmodulemain.actcopysensordata.caption"
+msgid "copy all"
+msgstr "copier tous"
+
+#: tmodulemain.actdisconnect.caption
+msgctxt "tmodulemain.actdisconnect.caption"
+msgid "Disconnect"
+msgstr "Couper"
+
+#: tmodulemain.actgetlifestatlog.caption
+msgctxt "tmodulemain.actgetlifestatlog.caption"
+msgid "Get Log"
+msgstr "Obtenez Connexion"
+
+#: tmodulemain.actremotecontrol.caption
+msgctxt "tmodulemain.actremotecontrol.caption"
+msgid "Remote Control (push arrows)"
+msgstr "Télécommande (flèches poussoirs)"
+
+#: tmodulemain.actscanlds.caption
+msgctxt "tmodulemain.actscanlds.caption"
+msgid "Scan LDS"
+msgstr "Numérisation LDS"
+
+#: tmodulemain.actsetcurrenttime.caption
+msgctxt "tmodulemain.actsetcurrenttime.caption"
+msgid "Set time to Neato from computer"
+msgstr "Réglez le temps de Neato de l'ordinateur"
+
+#: tmodulemain.actsetschedule.caption
+msgctxt "tmodulemain.actsetschedule.caption"
+msgid "Save Schedule"
+msgstr "Sauvegarder annexe"
+
+#: tmodulemain.acttestmodeenabled.caption
+msgctxt "tmodulemain.acttestmodeenabled.caption"
+msgid "Test mode enabled"
+msgstr ""
+
+#: tmodulemain.acttestmodeoff.caption
+msgctxt "tmodulemain.acttestmodeoff.caption"
+msgid "Disable"
+msgstr "Désactiver"
+
+#: tmodulemain.acttestmodeon.caption
+msgctxt "tmodulemain.acttestmodeon.caption"
+msgid "Enable"
+msgstr "Activer"
+
+#: tmodulemain.mncopy.caption
+msgctxt "tmodulemain.mncopy.caption"
+msgid "Copy"
+msgstr "Copie"
+
+#: ustrres.disable
+msgctxt "ustrres.disable"
+msgid "Disable"
+msgstr "Désactiver"
+
+#: ustrres.enable
+msgctxt "ustrres.enable"
+msgid "Enable"
+msgstr "Activer"
+
+#: ustrres.errorcantopenportcom
+#, fuzzy
+msgctxt "ustrres.errorcantopenportcom"
+msgid "Can't open port COM"
+msgstr "Vous ne pouvez pas ouvrir le port COM"
+
+#: ustrres.errorcomportnotdetect
+#, fuzzy
+msgctxt "ustrres.errorcomportnotdetect"
+msgid "COM port not detect"
+msgstr "Le port COM détecte pas"
+
+#: ustrres.errorinvalidcomportnumber
+#, fuzzy
+msgctxt "ustrres.errorinvalidcomportnumber"
+msgid "invalid COM port number"
+msgstr "COM valide le numéro de port"
+
+#: ustrres.friday
+#, fuzzy
+msgctxt "ustrres.friday"
+msgid "Friday"
+msgstr "Vendredi"
+
+#: ustrres.monday
+#, fuzzy
+msgctxt "ustrres.monday"
+msgid "Monday"
+msgstr "Lundi"
+
+#: ustrres.off
+msgctxt "ustrres.off"
+msgid "off"
+msgstr ""
+
+#: ustrres.runtimerinsecond
+msgid "in seconds"
+msgstr "en seconde"
+
+#: ustrres.saturday
+#, fuzzy
+msgctxt "ustrres.saturday"
+msgid "Saturday"
+msgstr "Samedi"
+
+#: ustrres.sunday
+#, fuzzy
+msgctxt "ustrres.sunday"
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: ustrres.textdisabled
+#, fuzzy
+msgctxt "ustrres.textdisabled"
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: ustrres.textenabled
+#, fuzzy
+msgctxt "ustrres.textenabled"
+msgid "Enabled"
+msgstr "Activé"
+
+#: ustrres.thursda
+#, fuzzy
+msgctxt "ustrres.thursda"
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: ustrres.tuesday
+#, fuzzy
+msgctxt "ustrres.tuesday"
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: ustrres.wednesday
+#, fuzzy
+msgctxt "ustrres.wednesday"
+msgid "Wednesday"
+msgstr "Mercredi"
+

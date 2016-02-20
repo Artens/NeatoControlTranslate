@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: NeatoControl\n"
+"Language: he\n"
+
+#: tfrmmain.btnconnectoptions.caption
+msgctxt "tfrmmain.btnconnectoptions.caption"
+msgid "..."
+msgstr "..."
+
+#: tfrmmain.btncopyall_log.caption
+msgctxt "TFRMMAIN.BTNCOPYALL_LOG.CAPTION"
+msgid "copy all"
+msgstr "להעתיק את כל"
+
+#: tfrmmain.btnselectlogfilename.caption
+msgctxt "TFRMMAIN.BTNSELECTLOGFILENAME.CAPTION"
+msgid "..."
+msgstr "..."
+
+#: tfrmmain.caption
+msgid "Neato Control"
+msgstr "בקרת Neato"
+
+#: tfrmmain.chautoconnect.caption
+msgid "Auto connect on plug"
+msgstr "אוטומטי להתחבר על תקע"
+
+#: tfrmmain.chautodetectport.caption
+msgid "Auto detect port number"
+msgstr "זיהוי אוטומטי מספר יציאה"
+
+#: tfrmmain.chbrush.caption
+msgid "Brush"
+msgstr "מברשת"
+
+#: tfrmmain.chdrawradialstate.caption
+msgid "Show state"
+msgstr "מדינת צג"
+
+#: tfrmmain.chdrawradialstate.hint
+msgid "Blue - intensity, Green - length, Red - error, Black - not visible"
+msgstr "עוצמת, גרין - - כחול אורך, אדום - שגיאה, שחור - לא גלוי"
+
+#: tfrmmain.checkbox1.caption
+msgid "require rotate the robot to the up"
+msgstr "דורש לסובב את הרובוט לעד"
+
+#: tfrmmain.chenableschedule.caption
+msgid "Schedule enabled"
+msgstr "לוח זמנים מופעל"
+
+#: tfrmmain.chleftwheel.caption
+msgid "Left Wheel"
+msgstr "שמאל גלגל"
+
+#: tfrmmain.chrightwheel.caption
+msgid "Right Wheel"
+msgstr "גלגל ימני"
+
+#: tfrmmain.chsavelogtofile.caption
+msgid "Save log to file"
+msgstr "שמור יומן להגיש"
+
+#: tfrmmain.chsensorauto.caption
+msgid "Auto update"
+msgstr "עדכון אוטומטי"
+
+#: tfrmmain.chseparatecmd.caption
+msgid "Separate all cmd \"===\""
+msgstr "הנפרד כל cmd \"===\""
+
+#: tfrmmain.chsidebrush.caption
+msgid "Side Brush"
+msgstr "צד מברשת"
+
+#: tfrmmain.chvacuum.caption
+msgid "Vacuum"
+msgstr "אבק"
+
+#: tfrmmain.edlogfilename.text
+msgid "log.txt"
+msgstr "log.txt"
+
+#: tfrmmain.edtranslateauthor.text
+msgid "Translate author: heX"
+msgstr "תרגום מחבר: Hex"
+
+#: tfrmmain.groupbox4.caption
+msgid "Schedule"
+msgstr "לוח זמנים"
+
+#: tfrmmain.groupbox5.caption
+msgid "Version:"
+msgstr "גרסה:"
+
+#: tfrmmain.groupboxtimers.caption
+msgid "Timers:"
+msgstr "טיימרים:"
+
+#: tfrmmain.label13.caption
+msgid "Commands list:"
+msgstr "רשימת פקודות:"
+
+#: tfrmmain.label2.caption
+msgid "Step 1:"
+msgstr "שלב 1:"
+
+#: tfrmmain.label3.caption
+msgid "Step 2:"
+msgstr "שלב 2:"
+
+#: tfrmmain.label4.caption
+msgid "Step 3:"
+msgstr "שלב 3:"
+
+#: tfrmmain.label5.caption
+msgid "Step 4:"
+msgstr "שלב 4:"
+
+#: tfrmmain.label6.caption
+msgid "Step 5:"
+msgstr "שלב 5:"
+
+#: tfrmmain.label8.caption
+msgid "Translate: https://poeditor.com/join/project/EdLcbGzBsR"
+msgstr "תרגום: https://poeditor.com/join/project/EdLcbGzBsR"
+
+#: tfrmmain.label9.caption
+msgid "WARNING: Rotate the robot so the wheels are facing up before enable wheels motor!"
+msgstr "אזהרה: סובב את הרובוט כך הגלגלים פונים כלפי מעלה לפני לאפשר מנוע גלגלים!"
+
+#: tfrmmain.labelr4.caption
+msgid "F4"
+msgstr "F4"
+
+#: tfrmmain.labelr5.caption
+msgid "F5"
+msgstr "F5"
+
+#: tfrmmain.labelr6.caption
+msgid "F6"
+msgstr "F6"
+
+#: tfrmmain.labelr7.caption
+msgid "F7"
+msgstr "F7"
+
+#: tfrmmain.labelr8.caption
+msgid "F8"
+msgstr "F8"
+
+#: tfrmmain.labelr9.caption
+msgid "F9"
+msgstr "F9"
+
+#: tfrmmain.lbcomportn.caption
+msgid "COM Port name:"
+msgstr "שם יציאת ה- COM:"
+
+#: tfrmmain.lbllang.caption
+msgid "Language:"
+msgstr "שפה:"
+
+#: tfrmmain.lbrobottime.caption
+msgid "00:00:00"
+msgstr "0:00:00"
+
+#: tfrmmain.lbrobottime2.caption
+msgid "Robot Time:"
+msgstr "זמן רובוט:"
+
+#: tfrmmain.lbwarnlowvoltage.caption
+msgid "Batt V < 12 V"
+msgstr "אט V <12 V"
+
+#: tfrmmain.lifestatlog.caption
+msgid "LifeStatLog"
+msgstr "LifeStatLog"
+
+#: tfrmmain.tabscan.caption
+msgid "Scanner"
+msgstr "סורק"
+
+#: tfrmmain.tabsheet1.caption
+msgid "Motors"
+msgstr "מנועים"
+
+#: tfrmmain.tabsheet2.caption
+msgid "Sensors"
+msgstr "חיישנים"
+
+#: tfrmmain.tabsheet3.caption
+msgid "Options"
+msgstr "אפשרויות"
+
+#: tfrmmain.tabsheet4.caption
+msgid "Recharge"
+msgstr "טעינה"
+
+#: tfrmmain.tabsheet5.caption
+msgid "About"
+msgstr "אודות"
+
+#: tfrmmain.tabsheet6.caption
+msgid "Commands"
+msgstr "פקודות"
+
+#: tfrmmain.textcomportn.text
+msgid "COM1"
+msgstr "COM1"
+
+#: tmodulemain.actbtnsendcmd.caption
+#, fuzzy
+msgctxt "tmodulemain.actbtnsendcmd.caption"
+msgid "Run"
+msgstr "הפעלה"
+
+#: tmodulemain.actchrenablebrush.caption
+msgctxt "TMODULEMAIN.ACTCHRENABLEBRUSH.CAPTION"
+msgid "Enable Brush Motor and Disconnect"
+msgstr "אפשר מברשת מנועיים נתק"
+
+#: tmodulemain.actchrenablevaccum.caption
+msgctxt "TMODULEMAIN.ACTCHRENABLEVACCUM.CAPTION"
+msgid "Enable Vaccum Motor and Disconnect"
+msgstr "אפשר אבק מנועיים נתק"
+
+#: tmodulemain.actchrset100percentbattery.caption
+msgctxt "TMODULEMAIN.ACTCHRSET100PERCENTBATTERY.CAPTION"
+msgid "Set 100% Battery"
+msgstr "גדר 100% סוללה"
+
+#: tmodulemain.actconnect.caption
+msgctxt "TMODULEMAIN.ACTCONNECT.CAPTION"
+msgid "Connect"
+msgstr "לְחַבֵּר"
+
+#: tmodulemain.actcopysensordata.caption
+msgctxt "TMODULEMAIN.ACTCOPYSENSORDATA.CAPTION"
+msgid "copy all"
+msgstr "להעתיק את כל"
+
+#: tmodulemain.actdisconnect.caption
+msgctxt "TMODULEMAIN.ACTDISCONNECT.CAPTION"
+msgid "Disconnect"
+msgstr "לְנַתֵק"
+
+#: tmodulemain.actgetlifestatlog.caption
+msgctxt "TMODULEMAIN.ACTGETLIFESTATLOG.CAPTION"
+msgid "Get Log"
+msgstr "קבל יומן"
+
+#: tmodulemain.actremotecontrol.caption
+msgctxt "TMODULEMAIN.ACTREMOTECONTROL.CAPTION"
+msgid "Remote Control (push arrows)"
+msgstr "שלט רחוק (דחיפת חיצים)"
+
+#: tmodulemain.actscanlds.caption
+msgctxt "TMODULEMAIN.ACTSCANLDS.CAPTION"
+msgid "Scan LDS"
+msgstr "LDS סריקה"
+
+#: tmodulemain.actsetcurrenttime.caption
+msgctxt "TMODULEMAIN.ACTSETCURRENTTIME.CAPTION"
+msgid "Set time to Neato from computer"
+msgstr "גדר זמן Neato ממחשב"
+
+#: tmodulemain.actsetschedule.caption
+msgctxt "TMODULEMAIN.ACTSETSCHEDULE.CAPTION"
+msgid "Save Schedule"
+msgstr "שמור את התזמון"
+
+#: tmodulemain.acttestmodeenabled.caption
+msgctxt "TMODULEMAIN.ACTTESTMODEENABLED.CAPTION"
+msgid "Test mode enabled"
+msgstr "בדיקת מצב מופעלת"
+
+#: tmodulemain.acttestmodeoff.caption
+msgctxt "TMODULEMAIN.ACTTESTMODEOFF.CAPTION"
+msgid "Disable"
+msgstr "שבת"
+
+#: tmodulemain.acttestmodeon.caption
+msgctxt "TMODULEMAIN.ACTTESTMODEON.CAPTION"
+msgid "Enable"
+msgstr "לְאַפשֵׁר"
+
+#: tmodulemain.mncopy.caption
+msgctxt "TMODULEMAIN.MNCOPY.CAPTION"
+msgid "Copy"
+msgstr "העתק"
+
+#: ustrres.disable
+msgctxt "ustrres.disable"
+msgid "Disable"
+msgstr "שבת"
+
+#: ustrres.enable
+msgctxt "ustrres.enable"
+msgid "Enable"
+msgstr "לְאַפשֵׁר"
+
+#: ustrres.errorcantopenportcom
+#, fuzzy
+msgctxt "ustrres.errorcantopenportcom"
+msgid "Can't open port COM"
+msgstr "לא יכול לפתוח את יציאת COM"
+
+#: ustrres.errorcomportnotdetect
+#, fuzzy
+msgctxt "ustrres.errorcomportnotdetect"
+msgid "COM port not detect"
+msgstr "יציאת ה- COM לא תזהה"
+
+#: ustrres.errorinvalidcomportnumber
+#, fuzzy
+msgctxt "ustrres.errorinvalidcomportnumber"
+msgid "invalid COM port number"
+msgstr "מספר יציאת ה- COM לא חוקי"
+
+#: ustrres.friday
+#, fuzzy
+msgctxt "ustrres.friday"
+msgid "Friday"
+msgstr "יום שישי"
+
+#: ustrres.monday
+#, fuzzy
+msgctxt "ustrres.monday"
+msgid "Monday"
+msgstr "יום שני"
+
+#: ustrres.off
+msgctxt "ustrres.off"
+msgid "off"
+msgstr ""
+
+#: ustrres.runtimerinsecond
+msgid "in seconds"
+msgstr "במקום השני"
+
+#: ustrres.saturday
+#, fuzzy
+msgctxt "ustrres.saturday"
+msgid "Saturday"
+msgstr "יום שבת"
+
+#: ustrres.sunday
+#, fuzzy
+msgctxt "ustrres.sunday"
+msgid "Sunday"
+msgstr "יום ראשון"
+
+#: ustrres.textdisabled
+#, fuzzy
+msgctxt "ustrres.textdisabled"
+msgid "Disabled"
+msgstr "נכים"
+
+#: ustrres.textenabled
+#, fuzzy
+msgctxt "ustrres.textenabled"
+msgid "Enabled"
+msgstr "מופעל"
+
+#: ustrres.thursda
+#, fuzzy
+msgctxt "ustrres.thursda"
+msgid "Thursday"
+msgstr "יום חמישי"
+
+#: ustrres.tuesday
+#, fuzzy
+msgctxt "ustrres.tuesday"
+msgid "Tuesday"
+msgstr "יום שלישי"
+
+#: ustrres.wednesday
+#, fuzzy
+msgctxt "ustrres.wednesday"
+msgid "Wednesday"
+msgstr "יום רביעי"
+
