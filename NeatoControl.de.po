@@ -1,15 +1,16 @@
 msgid ""
-msgstr "Content-Type: text/plain; charset=UTF-8"
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: NeatoControl\n"
+"Language: de\n"
 
 #: tfrmmain.btnconnectoptions.caption
 msgctxt "tfrmmain.btnconnectoptions.caption"
 msgid "..."
 msgstr "..."
-
-#: tfrmmain.btncopyall_log.caption
-msgctxt "TFRMMAIN.BTNCOPYALL_LOG.CAPTION"
-msgid "copy all"
-msgstr "kopieren Sie alle"
 
 #: tfrmmain.btnselectlogfilename.caption
 msgctxt "TFRMMAIN.BTNSELECTLOGFILENAME.CAPTION"
@@ -28,33 +29,9 @@ msgstr "Erkennung bei der Anmeldung"
 msgid "Auto detect port number"
 msgstr "die Portnummer Erkennung"
 
-#: tfrmmain.chbrush.caption
-msgid "Brush"
-msgstr "Bürste"
-
-#: tfrmmain.chdrawradialstate.caption
-msgid "Show state"
-msgstr ""
-
-#: tfrmmain.chdrawradialstate.hint
-msgid "Blue - intensity, Green - length, Red - error, Black - not visible"
-msgstr ""
-
 #: tfrmmain.checkbox1.caption
 msgid "require rotate the robot to the up"
 msgstr "es ist nötig den Roboter umzudrehen"
-
-#: tfrmmain.chenableschedule.caption
-msgid "Schedule enabled"
-msgstr ""
-
-#: tfrmmain.chleftwheel.caption
-msgid "Left Wheel"
-msgstr "Linkes Rad"
-
-#: tfrmmain.chrightwheel.caption
-msgid "Right Wheel"
-msgstr "Rechtes Rad"
 
 #: tfrmmain.chsavelogtofile.caption
 msgid "Save log to file"
@@ -68,14 +45,6 @@ msgstr "Auto-Update"
 msgid "Separate all cmd \"===\""
 msgstr "Unterteilen Sie Befehlszeile \"===\""
 
-#: tfrmmain.chsidebrush.caption
-msgid "Side Brush"
-msgstr "Seitenbürste"
-
-#: tfrmmain.chvacuum.caption
-msgid "Vacuum"
-msgstr "Vakuum"
-
 #: tfrmmain.edlogfilename.text
 msgid "log.txt"
 msgstr "log.txt"
@@ -83,12 +52,6 @@ msgstr "log.txt"
 #: tfrmmain.edtranslateauthor.text
 msgid "Translate author: heX"
 msgstr "Der Autor der Übersetzung: Uranus-13, heX"
-
-#: tfrmmain.groupbox4.caption
-#, fuzzy
-#| msgid "Schedule && Time"
-msgid "Schedule"
-msgstr "Planung und Zeit"
 
 #: tfrmmain.groupbox5.caption
 msgid "Version:"
@@ -121,14 +84,6 @@ msgstr "Schritt 4:"
 #: tfrmmain.label6.caption
 msgid "Step 5:"
 msgstr "Schritt 5:"
-
-#: tfrmmain.label8.caption
-msgid "Translate: https://poeditor.com/join/project/EdLcbGzBsR"
-msgstr "Übersetzen: https://poeditor.com/join/project/EdLcbGzBsR"
-
-#: tfrmmain.label9.caption
-msgid "WARNING: Rotate the robot so the wheels are facing up before enable wheels motor!"
-msgstr "ACHTUNG: Drehen Sie den Roboter so die Räder nach oben, bevor aktivieren Räder Motor!"
 
 #: tfrmmain.labelr4.caption
 msgid "F4"
@@ -174,17 +129,9 @@ msgstr "Time:"
 msgid "Batt V < 12 V"
 msgstr "Batt V < 12 V"
 
-#: tfrmmain.lifestatlog.caption
-msgid "LifeStatLog"
-msgstr "LifeStatLog"
-
 #: tfrmmain.tabscan.caption
 msgid "Scanner"
 msgstr "Scanner"
-
-#: tfrmmain.tabsheet1.caption
-msgid "Motors"
-msgstr "Motoren"
 
 #: tfrmmain.tabsheet2.caption
 msgid "Sensors"
@@ -210,87 +157,51 @@ msgstr "Befehle"
 msgid "COM1"
 msgstr "COM1"
 
-#: tmodulemain.actbtnsendcmd.caption
-#, fuzzy
-msgctxt "tmodulemain.actbtnsendcmd.caption"
-msgid "Run"
-msgstr "Run"
+#: tmodulemain.mncopy.caption
+msgctxt "TMODULEMAIN.MNCOPY.CAPTION"
+msgid "Copy"
+msgstr "Kopieren"
 
-#: tmodulemain.actchrenablebrush.caption
-msgctxt "tmodulemain.actchrenablebrush.caption"
-msgid "Enable Brush Motor and Disconnect"
-msgstr "Den Bürstenmotor aktivieren und die Verbindung unterbrechen"
-
-#: tmodulemain.actchrenablevaccum.caption
-msgctxt "tmodulemain.actchrenablevaccum.caption"
-msgid "Enable Vaccum Motor and Disconnect"
-msgstr "Den Saugmotor aktivieren und die Verbindung unterbrechen"
-
-#: tmodulemain.actchrset100percentbattery.caption
-msgctxt "tmodulemain.actchrset100percentbattery.caption"
-msgid "Set 100% Battery"
-msgstr "Akkuladezustend wieder auf 100% setzen"
-
-#: tmodulemain.actconnect.caption
-#, fuzzy
-msgctxt "tmodulemain.actconnect.caption"
-msgid "Connect"
-msgstr "Verbinden"
-
-#: tmodulemain.actcopysensordata.caption
-msgctxt "tmodulemain.actcopysensordata.caption"
+#: tfrmmain.btncopyall_log.caption
+msgctxt "TFRMMAIN.BTNCOPYALL_LOG.CAPTION"
 msgid "copy all"
 msgstr "kopieren Sie alle"
 
-#: tmodulemain.actdisconnect.caption
-msgctxt "tmodulemain.actdisconnect.caption"
-msgid "Disconnect"
-msgstr "unterbrechen"
+#: tfrmmain.chbrush.caption
+msgid "Brush"
+msgstr "Bürste"
 
-#: tmodulemain.actgetlifestatlog.caption
-msgctxt "tmodulemain.actgetlifestatlog.caption"
-msgid "Get Log"
-msgstr "Logdatei laden"
+#: tfrmmain.chleftwheel.caption
+msgid "Left Wheel"
+msgstr "Linkes Rad"
 
-#: tmodulemain.actremotecontrol.caption
-msgctxt "tmodulemain.actremotecontrol.caption"
-msgid "Remote Control (push arrows)"
-msgstr "Fernsteuerung (drücken sie die Pfeile)"
+#: tfrmmain.chrightwheel.caption
+msgid "Right Wheel"
+msgstr "Rechtes Rad"
 
-#: tmodulemain.actscanlds.caption
-msgctxt "tmodulemain.actscanlds.caption"
-msgid "Scan LDS"
-msgstr "Scanner"
+#: tfrmmain.chsidebrush.caption
+msgid "Side Brush"
+msgstr "Seitenbürste"
 
-#: tmodulemain.actsetcurrenttime.caption
-msgctxt "tmodulemain.actsetcurrenttime.caption"
-msgid "Set time to Neato from computer"
-msgstr "setzen Sie den Zeitplan für sterben NEATO aus dem Computer"
+#: tfrmmain.chvacuum.caption
+msgid "Vacuum"
+msgstr "Vakuum"
 
-#: tmodulemain.actsetschedule.caption
-msgctxt "tmodulemain.actsetschedule.caption"
-msgid "Save Schedule"
-msgstr "Speichern"
+#: tfrmmain.label8.caption
+msgid "Translate: https://poeditor.com/join/project/EdLcbGzBsR"
+msgstr "Übersetzen: https://poeditor.com/join/project/EdLcbGzBsR"
 
-#: tmodulemain.acttestmodeenabled.caption
-msgctxt "tmodulemain.acttestmodeenabled.caption"
-msgid "Test mode enabled"
-msgstr ""
+#: tfrmmain.lifestatlog.caption
+msgid "LifeStatLog"
+msgstr "LifeStatLog"
 
-#: tmodulemain.acttestmodeoff.caption
-msgctxt "tmodulemain.acttestmodeoff.caption"
-msgid "Disable"
-msgstr "Aus"
+#: tfrmmain.tabsheet1.caption
+msgid "Motors"
+msgstr "Motoren"
 
-#: tmodulemain.acttestmodeon.caption
-msgctxt "tmodulemain.acttestmodeon.caption"
-msgid "Enable"
-msgstr "Aktiviert"
-
-#: tmodulemain.mncopy.caption
-msgctxt "tmodulemain.mncopy.caption"
-msgid "Copy"
-msgstr "Kopieren"
+#: tfrmmain.label9.caption
+msgid "WARNING: Rotate the robot so the wheels are facing up before enable wheels motor!"
+msgstr "ACHTUNG: Drehen Sie den Roboter so die Räder nach oben, bevor aktivieren Räder Motor!"
 
 #: ustrres.disable
 msgctxt "ustrres.disable"
@@ -302,32 +213,118 @@ msgctxt "ustrres.enable"
 msgid "Enable"
 msgstr "Aktiviert"
 
+#: tfrmmain.chdrawradialstate.caption
+msgid "Show state"
+msgstr ""
+
+#: tfrmmain.chdrawradialstate.hint
+msgid "Blue - intensity, Green - length, Red - error, Black - not visible"
+msgstr ""
+
+#: tfrmmain.groupbox4.caption
+msgid "Schedule"
+msgstr "Planung und Zeit"
+
+#: tmodulemain.actchrenablebrush.caption
+msgctxt "TMODULEMAIN.ACTCHRENABLEBRUSH.CAPTION"
+msgid "Enable Brush Motor and Disconnect"
+msgstr "Den Bürstenmotor aktivieren und die Verbindung unterbrechen"
+
+#: tmodulemain.actchrenablevaccum.caption
+msgctxt "TMODULEMAIN.ACTCHRENABLEVACCUM.CAPTION"
+msgid "Enable Vaccum Motor and Disconnect"
+msgstr "Den Saugmotor aktivieren und die Verbindung unterbrechen"
+
+#: tmodulemain.actchrset100percentbattery.caption
+msgctxt "TMODULEMAIN.ACTCHRSET100PERCENTBATTERY.CAPTION"
+msgid "Set 100% Battery"
+msgstr "Akkuladezustend wieder auf 100% setzen"
+
+#: tmodulemain.actconnect.caption
+msgctxt "TMODULEMAIN.ACTCONNECT.CAPTION"
+msgid "Connect"
+msgstr "Verbinden"
+
+#: tmodulemain.actcopysensordata.caption
+msgctxt "TMODULEMAIN.ACTCOPYSENSORDATA.CAPTION"
+msgid "copy all"
+msgstr "kopieren Sie alle"
+
+#: tmodulemain.actdisconnect.caption
+msgctxt "TMODULEMAIN.ACTDISCONNECT.CAPTION"
+msgid "Disconnect"
+msgstr "unterbrechen"
+
+#: tmodulemain.actgetlifestatlog.caption
+msgctxt "TMODULEMAIN.ACTGETLIFESTATLOG.CAPTION"
+msgid "Get Log"
+msgstr "Logdatei laden"
+
+#: tmodulemain.actremotecontrol.caption
+msgctxt "TMODULEMAIN.ACTREMOTECONTROL.CAPTION"
+msgid "Remote Control (push arrows)"
+msgstr "Fernsteuerung (drücken sie die Pfeile)"
+
+#: tmodulemain.actscanlds.caption
+msgctxt "TMODULEMAIN.ACTSCANLDS.CAPTION"
+msgid "Scan LDS"
+msgstr "Scanner"
+
+#: tmodulemain.actsetcurrenttime.caption
+msgctxt "TMODULEMAIN.ACTSETCURRENTTIME.CAPTION"
+msgid "Set time to Neato from computer"
+msgstr "setzen Sie den Zeitplan für sterben NEATO aus dem Computer"
+
+#: tmodulemain.actsetschedule.caption
+msgctxt "TMODULEMAIN.ACTSETSCHEDULE.CAPTION"
+msgid "Save Schedule"
+msgstr "Speichern"
+
+#: tmodulemain.acttestmodeoff.caption
+msgctxt "TMODULEMAIN.ACTTESTMODEOFF.CAPTION"
+msgid "Disable"
+msgstr "Aus"
+
+#: tmodulemain.acttestmodeon.caption
+msgctxt "TMODULEMAIN.ACTTESTMODEON.CAPTION"
+msgid "Enable"
+msgstr "Aktiviert"
+
+#: tfrmmain.chenableschedule.caption
+msgid "Schedule enabled"
+msgstr ""
+
+#: tmodulemain.actbtnsendcmd.caption
+msgctxt "tmodulemain.actbtnsendcmd.caption"
+msgid "Run"
+msgstr "Run"
+
+#: tmodulemain.acttestmodeenabled.caption
+msgctxt "TMODULEMAIN.ACTTESTMODEENABLED.CAPTION"
+msgid "Test mode enabled"
+msgstr ""
+
 #: ustrres.errorcantopenportcom
-#, fuzzy
 msgctxt "ustrres.errorcantopenportcom"
 msgid "Can't open port COM"
 msgstr "Kann Port COM nicht öffnen"
 
 #: ustrres.errorcomportnotdetect
-#, fuzzy
 msgctxt "ustrres.errorcomportnotdetect"
 msgid "COM port not detect"
 msgstr "COM-Port nicht erkannt"
 
 #: ustrres.errorinvalidcomportnumber
-#, fuzzy
 msgctxt "ustrres.errorinvalidcomportnumber"
 msgid "invalid COM port number"
 msgstr "ungültige COM-Port-Nummer"
 
 #: ustrres.friday
-#, fuzzy
 msgctxt "ustrres.friday"
 msgid "Friday"
 msgstr "Freitag"
 
 #: ustrres.monday
-#, fuzzy
 msgctxt "ustrres.monday"
 msgid "Monday"
 msgstr "Montag"
@@ -342,43 +339,36 @@ msgid "in seconds"
 msgstr "In Sekunden"
 
 #: ustrres.saturday
-#, fuzzy
 msgctxt "ustrres.saturday"
 msgid "Saturday"
 msgstr "Samstag"
 
 #: ustrres.sunday
-#, fuzzy
 msgctxt "ustrres.sunday"
 msgid "Sunday"
 msgstr "Sonntag"
 
 #: ustrres.textdisabled
-#, fuzzy
 msgctxt "ustrres.textdisabled"
 msgid "Disabled"
 msgstr "Aus"
 
 #: ustrres.textenabled
-#, fuzzy
 msgctxt "ustrres.textenabled"
 msgid "Enabled"
 msgstr "Ein"
 
 #: ustrres.thursda
-#, fuzzy
 msgctxt "ustrres.thursda"
 msgid "Thursday"
 msgstr "Dienstag"
 
 #: ustrres.tuesday
-#, fuzzy
 msgctxt "ustrres.tuesday"
 msgid "Tuesday"
 msgstr "Donnerstag"
 
 #: ustrres.wednesday
-#, fuzzy
 msgctxt "ustrres.wednesday"
 msgid "Wednesday"
 msgstr "Mittwoch"
