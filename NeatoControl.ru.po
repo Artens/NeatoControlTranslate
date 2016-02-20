@@ -12,11 +12,6 @@ msgctxt "tfrmmain.btnconnectoptions.caption"
 msgid "..."
 msgstr "..."
 
-#: tfrmmain.btncopyall_log.caption
-msgctxt "TFRMMAIN.BTNCOPYALL_LOG.CAPTION"
-msgid "copy all"
-msgstr "Копировать все"
-
 #: tfrmmain.btnselectlogfilename.caption
 msgctxt "TFRMMAIN.BTNSELECTLOGFILENAME.CAPTION"
 msgid "..."
@@ -34,33 +29,9 @@ msgstr "Авто соединение при подключении"
 msgid "Auto detect port number"
 msgstr "Авто определение порта"
 
-#: tfrmmain.chbrush.caption
-msgid "Brush"
-msgstr "Щетка"
-
-#: tfrmmain.chdrawradialstate.caption
-msgid "Show state"
-msgstr "Показать диагностику"
-
-#: tfrmmain.chdrawradialstate.hint
-msgid "Blue - intensity, Green - length, Red - error, Black - not visible"
-msgstr "Голубой - интенсивность, Зеленый - расстояние, Красный - ошибка, Черный - вне поля зрения"
-
 #: tfrmmain.checkbox1.caption
 msgid "require rotate the robot to the up"
 msgstr "DEL!!!Требовать переворачивание робота перед тестом"
-
-#: tfrmmain.chenableschedule.caption
-msgid "Schedule enabled"
-msgstr "Расписание вкл."
-
-#: tfrmmain.chleftwheel.caption
-msgid "Left Wheel"
-msgstr "Левое колесо"
-
-#: tfrmmain.chrightwheel.caption
-msgid "Right Wheel"
-msgstr "Правое колесо"
 
 #: tfrmmain.chsavelogtofile.caption
 msgid "Save log to file"
@@ -74,14 +45,6 @@ msgstr "Авто обновление"
 msgid "Separate all cmd \"===\""
 msgstr "Разделить команды строкой \"===\""
 
-#: tfrmmain.chsidebrush.caption
-msgid "Side Brush"
-msgstr "Боковая щетка"
-
-#: tfrmmain.chvacuum.caption
-msgid "Vacuum"
-msgstr "Пылесос"
-
 #: tfrmmain.edlogfilename.text
 msgid "log.txt"
 msgstr "log.txt"
@@ -89,11 +52,6 @@ msgstr "log.txt"
 #: tfrmmain.edtranslateauthor.text
 msgid "Translate author: heX"
 msgstr "Автор перевода: heX"
-
-#: tfrmmain.groupbox4.caption
-#, fuzzy
-msgid "Schedule"
-msgstr "Расписание и время"
 
 #: tfrmmain.groupbox5.caption
 msgid "Version:"
@@ -126,14 +84,6 @@ msgstr "Шаг 4:"
 #: tfrmmain.label6.caption
 msgid "Step 5:"
 msgstr "Шаг 5:"
-
-#: tfrmmain.label8.caption
-msgid "Translate: https://poeditor.com/join/project/EdLcbGzBsR"
-msgstr "Коллективный перевод: https://poeditor.com/join/project/EdLcbGzBsR"
-
-#: tfrmmain.label9.caption
-msgid "WARNING: Rotate the robot so the wheels are facing up before enable wheels motor!"
-msgstr "ВНИМАНИЕ: переверните робота колесами вверх перед запуском моторов"
 
 #: tfrmmain.labelr4.caption
 msgid "F4"
@@ -179,17 +129,9 @@ msgstr "Время:"
 msgid "Batt V < 12 V"
 msgstr "Batt V < 12 V"
 
-#: tfrmmain.lifestatlog.caption
-msgid "LifeStatLog"
-msgstr "Получить лог"
-
 #: tfrmmain.tabscan.caption
 msgid "Scanner"
 msgstr "Сканер"
-
-#: tfrmmain.tabsheet1.caption
-msgid "Motors"
-msgstr "Моторы"
 
 #: tfrmmain.tabsheet2.caption
 msgid "Sensors"
@@ -215,10 +157,73 @@ msgstr "Команды"
 msgid "COM1"
 msgstr "COM1"
 
-#: tmodulemain.actbtnsendcmd.caption
-msgctxt "tmodulemain.actbtnsendcmd.caption"
-msgid "Run"
-msgstr ">"
+#: tmodulemain.mncopy.caption
+msgctxt "TMODULEMAIN.MNCOPY.CAPTION"
+msgid "Copy"
+msgstr "Копировать"
+
+#: tfrmmain.btncopyall_log.caption
+msgctxt "TFRMMAIN.BTNCOPYALL_LOG.CAPTION"
+msgid "copy all"
+msgstr "Копировать все"
+
+#: tfrmmain.chbrush.caption
+msgid "Brush"
+msgstr "Щетка"
+
+#: tfrmmain.chleftwheel.caption
+msgid "Left Wheel"
+msgstr "Левое колесо"
+
+#: tfrmmain.chrightwheel.caption
+msgid "Right Wheel"
+msgstr "Правое колесо"
+
+#: tfrmmain.chsidebrush.caption
+msgid "Side Brush"
+msgstr "Боковая щетка"
+
+#: tfrmmain.chvacuum.caption
+msgid "Vacuum"
+msgstr "Пылесос"
+
+#: tfrmmain.label8.caption
+msgid "Translate: https://poeditor.com/join/project/EdLcbGzBsR"
+msgstr "Коллективный перевод: https://poeditor.com/join/project/EdLcbGzBsR"
+
+#: tfrmmain.lifestatlog.caption
+msgid "LifeStatLog"
+msgstr "Получить лог"
+
+#: tfrmmain.tabsheet1.caption
+msgid "Motors"
+msgstr "Моторы"
+
+#: tfrmmain.label9.caption
+msgid "WARNING: Rotate the robot so the wheels are facing up before enable wheels motor!"
+msgstr "ВНИМАНИЕ: переверните робота колесами вверх перед запуском моторов"
+
+#: ustrres.disable
+msgctxt "ustrres.disable"
+msgid "Disable"
+msgstr "Выкл."
+
+#: ustrres.enable
+msgctxt "ustrres.enable"
+msgid "Enable"
+msgstr "Вкл."
+
+#: tfrmmain.chdrawradialstate.caption
+msgid "Show state"
+msgstr "Показать диагностику"
+
+#: tfrmmain.chdrawradialstate.hint
+msgid "Blue - intensity, Green - length, Red - error, Black - not visible"
+msgstr "Голубой - интенсивность, Зеленый - расстояние, Красный - ошибка, Черный - вне поля зрения"
+
+#: tfrmmain.groupbox4.caption
+msgid "Schedule"
+msgstr "Расписание и время"
 
 #: tmodulemain.actchrenablebrush.caption
 msgctxt "TMODULEMAIN.ACTCHRENABLEBRUSH.CAPTION"
@@ -266,22 +271,14 @@ msgid "Scan LDS"
 msgstr "Вкл. лазерный сканер"
 
 #: tmodulemain.actsetcurrenttime.caption
-#, fuzzy
 msgctxt "TMODULEMAIN.ACTSETCURRENTTIME.CAPTION"
 msgid "Set time to Neato from computer"
 msgstr "Установить время робота с компьютера"
 
 #: tmodulemain.actsetschedule.caption
-#, fuzzy
 msgctxt "TMODULEMAIN.ACTSETSCHEDULE.CAPTION"
 msgid "Save Schedule"
 msgstr "Сохранить"
-
-#: tmodulemain.acttestmodeenabled.caption
-#, fuzzy
-msgctxt "TMODULEMAIN.ACTTESTMODEENABLED.CAPTION"
-msgid "Test mode enabled"
-msgstr "TestMode включен"
 
 #: tmodulemain.acttestmodeoff.caption
 msgctxt "TMODULEMAIN.ACTTESTMODEOFF.CAPTION"
@@ -293,47 +290,41 @@ msgctxt "TMODULEMAIN.ACTTESTMODEON.CAPTION"
 msgid "Enable"
 msgstr "Вкл."
 
-#: tmodulemain.mncopy.caption
-msgctxt "TMODULEMAIN.MNCOPY.CAPTION"
-msgid "Copy"
-msgstr "Копировать"
+#: tfrmmain.chenableschedule.caption
+msgid "Schedule enabled"
+msgstr "Расписание вкл."
 
-#: ustrres.disable
-msgctxt "ustrres.disable"
-msgid "Disable"
-msgstr "Выкл."
+#: tmodulemain.actbtnsendcmd.caption
+msgctxt "tmodulemain.actbtnsendcmd.caption"
+msgid "Run"
+msgstr ">"
 
-#: ustrres.enable
-msgctxt "ustrres.enable"
-msgid "Enable"
-msgstr "Вкл."
+#: tmodulemain.acttestmodeenabled.caption
+msgctxt "TMODULEMAIN.ACTTESTMODEENABLED.CAPTION"
+msgid "Test mode enabled"
+msgstr "TestMode включен"
 
 #: ustrres.errorcantopenportcom
-#, fuzzy
 msgctxt "ustrres.errorcantopenportcom"
 msgid "Can't open port COM"
 msgstr "Не могу открыть COM порт"
 
 #: ustrres.errorcomportnotdetect
-#, fuzzy
 msgctxt "ustrres.errorcomportnotdetect"
 msgid "COM port not detect"
 msgstr "Подходящий COM порт не найден"
 
 #: ustrres.errorinvalidcomportnumber
-#, fuzzy
 msgctxt "ustrres.errorinvalidcomportnumber"
 msgid "invalid COM port number"
 msgstr "Неправильный номер COM порта"
 
 #: ustrres.friday
-#, fuzzy
 msgctxt "ustrres.friday"
 msgid "Friday"
 msgstr "Пятница"
 
 #: ustrres.monday
-#, fuzzy
 msgctxt "ustrres.monday"
 msgid "Monday"
 msgstr "Понедельник"
@@ -348,43 +339,36 @@ msgid "in seconds"
 msgstr "в секундах"
 
 #: ustrres.saturday
-#, fuzzy
 msgctxt "ustrres.saturday"
 msgid "Saturday"
 msgstr "Суббота"
 
 #: ustrres.sunday
-#, fuzzy
 msgctxt "ustrres.sunday"
 msgid "Sunday"
 msgstr "Воскресенье"
 
 #: ustrres.textdisabled
-#, fuzzy
 msgctxt "ustrres.textdisabled"
 msgid "Disabled"
 msgstr "Выкл"
 
 #: ustrres.textenabled
-#, fuzzy
 msgctxt "ustrres.textenabled"
 msgid "Enabled"
 msgstr "Вкл"
 
 #: ustrres.thursda
-#, fuzzy
 msgctxt "ustrres.thursda"
 msgid "Thursday"
 msgstr "Четверг"
 
 #: ustrres.tuesday
-#, fuzzy
 msgctxt "ustrres.tuesday"
 msgid "Tuesday"
 msgstr "Вторник"
 
 #: ustrres.wednesday
-#, fuzzy
 msgctxt "ustrres.wednesday"
 msgid "Wednesday"
 msgstr "Среда"
