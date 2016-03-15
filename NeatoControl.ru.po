@@ -332,7 +332,7 @@ msgstr "Понедельник"
 #: ustrres.off
 msgctxt "ustrres.off"
 msgid "off"
-msgstr ""
+msgstr "откл."
 
 #: ustrres.runtimerinsecond
 msgid "in seconds"
