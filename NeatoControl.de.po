@@ -12,6 +12,11 @@ msgctxt "tfrmmain.btnconnectoptions.caption"
 msgid "..."
 msgstr "..."
 
+#: tfrmmain.btncopyall_log.caption
+msgctxt "TFRMMAIN.BTNCOPYALL_LOG.CAPTION"
+msgid "copy all"
+msgstr "kopieren Sie alle"
+
 #: tfrmmain.btnselectlogfilename.caption
 msgctxt "TFRMMAIN.BTNSELECTLOGFILENAME.CAPTION"
 msgid "..."
@@ -29,9 +34,33 @@ msgstr "Erkennung bei der Anmeldung"
 msgid "Auto detect port number"
 msgstr "die Portnummer Erkennung"
 
+#: tfrmmain.chbrush.caption
+msgid "Brush"
+msgstr "Bürste"
+
+#: tfrmmain.chdrawradialstate.caption
+msgid "Show state"
+msgstr ""
+
+#: tfrmmain.chdrawradialstate.hint
+msgid "Blue - intensity, Green - length, Red - error, Black - not visible"
+msgstr ""
+
 #: tfrmmain.checkbox1.caption
 msgid "require rotate the robot to the up"
 msgstr "es ist nötig den Roboter umzudrehen"
+
+#: tfrmmain.chenableschedule.caption
+msgid "Schedule enabled"
+msgstr ""
+
+#: tfrmmain.chleftwheel.caption
+msgid "Left Wheel"
+msgstr "Linkes Rad"
+
+#: tfrmmain.chrightwheel.caption
+msgid "Right Wheel"
+msgstr "Rechtes Rad"
 
 #: tfrmmain.chsavelogtofile.caption
 msgid "Save log to file"
@@ -45,6 +74,14 @@ msgstr "Auto-Update"
 msgid "Separate all cmd \"===\""
 msgstr "Unterteilen Sie Befehlszeile \"===\""
 
+#: tfrmmain.chsidebrush.caption
+msgid "Side Brush"
+msgstr "Seitenbürste"
+
+#: tfrmmain.chvacuum.caption
+msgid "Vacuum"
+msgstr "Vakuum"
+
 #: tfrmmain.edlogfilename.text
 msgid "log.txt"
 msgstr "log.txt"
@@ -52,6 +89,10 @@ msgstr "log.txt"
 #: tfrmmain.edtranslateauthor.text
 msgid "Translate author: heX"
 msgstr "Der Autor der Übersetzung: Uranus-13, heX"
+
+#: tfrmmain.groupbox4.caption
+msgid "Schedule"
+msgstr "Planung und Zeit"
 
 #: tfrmmain.groupbox5.caption
 msgid "Version:"
@@ -84,6 +125,10 @@ msgstr "Schritt 4:"
 #: tfrmmain.label6.caption
 msgid "Step 5:"
 msgstr "Schritt 5:"
+
+#: tfrmmain.label8.caption
+msgid "Translate: https://poeditor.com/join/project/EdLcbGzBsR"
+msgstr "Übersetzen: https://poeditor.com/join/project/EdLcbGzBsR"
 
 #: tfrmmain.labelr4.caption
 msgid "F4"
@@ -125,13 +170,27 @@ msgstr "00:00:00"
 msgid "Robot Time:"
 msgstr "Time:"
 
+#: tfrmmain.lbwarning.caption
+#, fuzzy
+msgctxt "tfrmmain.lbwarning.caption"
+msgid "WARNING: Rotate the robot so the wheels are facing up before enable wheels motor!"
+msgstr "ACHTUNG: Drehen Sie den Roboter so die Räder nach oben, bevor aktivieren Räder Motor!"
+
 #: tfrmmain.lbwarnlowvoltage.caption
 msgid "Batt V < 12 V"
 msgstr "Batt V < 12 V"
 
+#: tfrmmain.lifestatlog.caption
+msgid "LifeStatLog"
+msgstr "LifeStatLog"
+
 #: tfrmmain.tabscan.caption
 msgid "Scanner"
 msgstr "Scanner"
+
+#: tfrmmain.tabsheet1.caption
+msgid "Motors"
+msgstr "Motoren"
 
 #: tfrmmain.tabsheet2.caption
 msgid "Sensors"
@@ -157,73 +216,10 @@ msgstr "Befehle"
 msgid "COM1"
 msgstr "COM1"
 
-#: tmodulemain.mncopy.caption
-msgctxt "TMODULEMAIN.MNCOPY.CAPTION"
-msgid "Copy"
-msgstr "Kopieren"
-
-#: tfrmmain.btncopyall_log.caption
-msgctxt "TFRMMAIN.BTNCOPYALL_LOG.CAPTION"
-msgid "copy all"
-msgstr "kopieren Sie alle"
-
-#: tfrmmain.chbrush.caption
-msgid "Brush"
-msgstr "Bürste"
-
-#: tfrmmain.chleftwheel.caption
-msgid "Left Wheel"
-msgstr "Linkes Rad"
-
-#: tfrmmain.chrightwheel.caption
-msgid "Right Wheel"
-msgstr "Rechtes Rad"
-
-#: tfrmmain.chsidebrush.caption
-msgid "Side Brush"
-msgstr "Seitenbürste"
-
-#: tfrmmain.chvacuum.caption
-msgid "Vacuum"
-msgstr "Vakuum"
-
-#: tfrmmain.label8.caption
-msgid "Translate: https://poeditor.com/join/project/EdLcbGzBsR"
-msgstr "Übersetzen: https://poeditor.com/join/project/EdLcbGzBsR"
-
-#: tfrmmain.lifestatlog.caption
-msgid "LifeStatLog"
-msgstr "LifeStatLog"
-
-#: tfrmmain.tabsheet1.caption
-msgid "Motors"
-msgstr "Motoren"
-
-#: tfrmmain.label9.caption
-msgid "WARNING: Rotate the robot so the wheels are facing up before enable wheels motor!"
-msgstr "ACHTUNG: Drehen Sie den Roboter so die Räder nach oben, bevor aktivieren Räder Motor!"
-
-#: ustrres.disable
-msgctxt "ustrres.disable"
-msgid "Disable"
-msgstr "Deaktiviert"
-
-#: ustrres.enable
-msgctxt "ustrres.enable"
-msgid "Enable"
-msgstr "Aktiviert"
-
-#: tfrmmain.chdrawradialstate.caption
-msgid "Show state"
-msgstr ""
-
-#: tfrmmain.chdrawradialstate.hint
-msgid "Blue - intensity, Green - length, Red - error, Black - not visible"
-msgstr ""
-
-#: tfrmmain.groupbox4.caption
-msgid "Schedule"
-msgstr "Planung und Zeit"
+#: tmodulemain.actbtnsendcmd.caption
+msgctxt "tmodulemain.actbtnsendcmd.caption"
+msgid "Run"
+msgstr "Run"
 
 #: tmodulemain.actchrenablebrush.caption
 msgctxt "TMODULEMAIN.ACTCHRENABLEBRUSH.CAPTION"
@@ -260,6 +256,16 @@ msgctxt "TMODULEMAIN.ACTGETLIFESTATLOG.CAPTION"
 msgid "Get Log"
 msgstr "Logdatei laden"
 
+#: tmodulemain.actgetschedule.caption
+msgctxt "tmodulemain.actgetschedule.caption"
+msgid "Load schedule"
+msgstr ""
+
+#: tmodulemain.actgetschedule.hint
+msgctxt "tmodulemain.actgetschedule.hint"
+msgid "Load schedule"
+msgstr ""
+
 #: tmodulemain.actremotecontrol.caption
 msgctxt "TMODULEMAIN.ACTREMOTECONTROL.CAPTION"
 msgid "Remote Control (push arrows)"
@@ -280,33 +286,31 @@ msgctxt "TMODULEMAIN.ACTSETSCHEDULE.CAPTION"
 msgid "Save Schedule"
 msgstr "Speichern"
 
-#: tmodulemain.acttestmodeoff.caption
-msgctxt "TMODULEMAIN.ACTTESTMODEOFF.CAPTION"
-msgid "Disable"
-msgstr "Aus"
-
-#: tmodulemain.acttestmodeon.caption
-msgctxt "TMODULEMAIN.ACTTESTMODEON.CAPTION"
-msgid "Enable"
-msgstr "Aktiviert"
-
-#: tfrmmain.chenableschedule.caption
-msgid "Schedule enabled"
-msgstr ""
-
-#: tmodulemain.actbtnsendcmd.caption
-msgctxt "tmodulemain.actbtnsendcmd.caption"
-msgid "Run"
-msgstr "Run"
-
 #: tmodulemain.acttestmodeenabled.caption
 msgctxt "TMODULEMAIN.ACTTESTMODEENABLED.CAPTION"
 msgid "Test mode enabled"
 msgstr ""
 
+#: tmodulemain.mncopy.caption
+msgctxt "TMODULEMAIN.MNCOPY.CAPTION"
+msgid "Copy"
+msgstr "Kopieren"
+
+#: ustrres.disable
+msgctxt "ustrres.disable"
+msgid "Disable"
+msgstr "Deaktiviert"
+
+#: ustrres.enable
+msgctxt "ustrres.enable"
+msgid "Enable"
+msgstr "Aktiviert"
+
 #: ustrres.errorcantopenportcom
+#, fuzzy
+#| msgid "Can't open port COM"
 msgctxt "ustrres.errorcantopenportcom"
-msgid "Can't open port COM"
+msgid "Can't open port: "
 msgstr "Kann Port COM nicht öffnen"
 
 #: ustrres.errorcomportnotdetect

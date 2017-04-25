@@ -5,45 +5,45 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
 "Project-Id-Version: NeatoControl\n"
-"Language: zh-CN\n"
+"Language: nl\n"
 
 #: tfrmmain.btnconnectoptions.caption
 msgctxt "tfrmmain.btnconnectoptions.caption"
 msgid "..."
-msgstr "……"
+msgstr "..."
 
 #: tfrmmain.btnselectlogfilename.caption
 msgctxt "TFRMMAIN.BTNSELECTLOGFILENAME.CAPTION"
 msgid "..."
-msgstr "……"
+msgstr "..."
 
 #: tfrmmain.caption
 msgid "Neato Control"
-msgstr "Neato控制台"
+msgstr "Neato Controle"
 
 #: tfrmmain.chautoconnect.caption
 msgid "Auto connect on plug"
-msgstr "插入后自动连接"
+msgstr "Auto te sluiten op stekker"
 
 #: tfrmmain.chautodetectport.caption
 msgid "Auto detect port number"
-msgstr "自动检测串口号"
+msgstr "Automatische detectie poortnummer"
 
 #: tfrmmain.checkbox1.caption
 msgid "require rotate the robot to the up"
-msgstr "需要将机器底朝上"
+msgstr "vereisen draai de robot naar de up"
 
 #: tfrmmain.chsavelogtofile.caption
 msgid "Save log to file"
-msgstr "保存记录到文件"
+msgstr "Log opslaan naar bestand"
 
 #: tfrmmain.chsensorauto.caption
 msgid "Auto update"
-msgstr "自动更新"
+msgstr "Auto update"
 
 #: tfrmmain.chseparatecmd.caption
 msgid "Separate all cmd \"===\""
-msgstr "用\"===\"做命令分隔符"
+msgstr "Afzonderlijke alle cmd \"===\""
 
 #: tfrmmain.edlogfilename.text
 msgid "log.txt"
@@ -51,39 +51,39 @@ msgstr "log.txt"
 
 #: tfrmmain.edtranslateauthor.text
 msgid "Translate author: heX"
-msgstr "简体中文翻译： sk8021, xmysz"
+msgstr "Vertalen door Vidicon"
 
 #: tfrmmain.groupbox5.caption
 msgid "Version:"
-msgstr "版本："
+msgstr "Versie:"
 
 #: tfrmmain.groupboxtimers.caption
 msgid "Timers:"
-msgstr "循环周期："
+msgstr "timers:"
 
 #: tfrmmain.label13.caption
 msgid "Commands list:"
-msgstr "命令列表："
+msgstr "Commando's lijst:"
 
 #: tfrmmain.label2.caption
 msgid "Step 1:"
-msgstr "第一步："
+msgstr "Stap 1:"
 
 #: tfrmmain.label3.caption
 msgid "Step 2:"
-msgstr "第二步："
+msgstr "Stap 2:"
 
 #: tfrmmain.label4.caption
 msgid "Step 3:"
-msgstr "第三步："
+msgstr "Stap 3:"
 
 #: tfrmmain.label5.caption
 msgid "Step 4:"
-msgstr "第四步："
+msgstr "Stap 4:"
 
 #: tfrmmain.label6.caption
 msgid "Step 5:"
-msgstr "第五步："
+msgstr "Stap 5:"
 
 #: tfrmmain.labelr4.caption
 msgid "F4"
@@ -111,11 +111,11 @@ msgstr "F9"
 
 #: tfrmmain.lbcomportn.caption
 msgid "COM Port name:"
-msgstr "串口号："
+msgstr "COM-poort naam:"
 
 #: tfrmmain.lbllang.caption
 msgid "Language:"
-msgstr "语言："
+msgstr "Taal:"
 
 #: tfrmmain.lbrobottime.caption
 msgid "00:00:00"
@@ -123,253 +123,254 @@ msgstr "00:00:00"
 
 #: tfrmmain.lbrobottime2.caption
 msgid "Robot Time:"
-msgstr "机器时间："
+msgstr "Robot Tijd:"
 
 #: tfrmmain.lbwarnlowvoltage.caption
 msgid "Batt V < 12 V"
-msgstr "电池电压小于12伏"
+msgstr "Batt V <12 V"
 
 #: tfrmmain.tabscan.caption
 msgid "Scanner"
-msgstr "房形扫描器"
+msgstr "Scanner"
 
 #: tfrmmain.tabsheet2.caption
 msgid "Sensors"
-msgstr "传感器"
+msgstr "sensoren"
 
 #: tfrmmain.tabsheet3.caption
 msgid "Options"
-msgstr "选项"
+msgstr "opties"
 
 #: tfrmmain.tabsheet4.caption
 msgid "Recharge"
-msgstr "深度充放电"
+msgstr "Opladen"
 
 #: tfrmmain.tabsheet5.caption
 msgid "About"
-msgstr "关于"
+msgstr "Over"
 
 #: tfrmmain.tabsheet6.caption
 msgid "Commands"
-msgstr "命令行"
+msgstr "Commando's"
 
 #: tfrmmain.textcomportn.text
 msgid "COM1"
-msgstr "串口1"
+msgstr "COM1"
 
 #: tmodulemain.mncopy.caption
 msgctxt "TMODULEMAIN.MNCOPY.CAPTION"
 msgid "Copy"
-msgstr "复制"
+msgstr "Kopiëren"
 
 #: tfrmmain.btncopyall_log.caption
 msgctxt "TFRMMAIN.BTNCOPYALL_LOG.CAPTION"
 msgid "copy all"
-msgstr "全部复制"
+msgstr "kopieer alle"
 
 #: tfrmmain.chbrush.caption
 msgid "Brush"
-msgstr "主刷"
+msgstr "Borstel"
 
 #: tfrmmain.chleftwheel.caption
 msgid "Left Wheel"
-msgstr "左轮"
+msgstr "linker wiel"
 
 #: tfrmmain.chrightwheel.caption
 msgid "Right Wheel"
-msgstr "右轮"
+msgstr "Rechter wiel"
 
 #: tfrmmain.chsidebrush.caption
 msgid "Side Brush"
-msgstr "边刷"
+msgstr "Zij borstel"
 
 #: tfrmmain.chvacuum.caption
 msgid "Vacuum"
-msgstr "风机"
+msgstr "Vacuüm\n"
+""
 
 #: tfrmmain.label8.caption
 msgid "Translate: https://poeditor.com/join/project/EdLcbGzBsR"
-msgstr "翻译： https://poeditor.com/join/project/EdLcbGzBsR "
+msgstr "Translate: https://poeditor.com/join/project/EdLcbGzBsR"
 
 #: tfrmmain.lifestatlog.caption
 msgid "LifeStatLog"
-msgstr "寿命状态记录"
+msgstr "LifeStatLog"
 
 #: tfrmmain.tabsheet1.caption
 msgid "Motors"
-msgstr "电机"
+msgstr "Motors"
 
 #: tfrmmain.label9.caption
 msgid "WARNING: Rotate the robot so the wheels are facing up before enable wheels motor!"
-msgstr "警告：启动马达前请务必将轮子朝上！"
+msgstr "LET OP: Haal de wielen van de grond voordat je de wielmotors start."
 
 #: ustrres.disable
 msgctxt "ustrres.disable"
 msgid "Disable"
-msgstr "禁用"
+msgstr "Uitschakelen"
 
 #: ustrres.enable
 msgctxt "ustrres.enable"
 msgid "Enable"
-msgstr "启用"
+msgstr "Inschakelen"
 
 #: tfrmmain.chdrawradialstate.caption
 msgid "Show state"
-msgstr "状态显示"
+msgstr "Show staat"
 
 #: tfrmmain.chdrawradialstate.hint
 msgid "Blue - intensity, Green - length, Red - error, Black - not visible"
-msgstr "蓝色 - 反射强度，绿色 - 距离，红色 - 错误，黑色 - 无法检测"
+msgstr "Blauw - intensiteit, Green - lengte, Rood - error, Zwart - niet zichtbaar"
 
 #: tfrmmain.groupbox4.caption
 msgid "Schedule"
-msgstr "计划任务表"
+msgstr "rooster"
 
 #: tmodulemain.actchrenablebrush.caption
 msgctxt "TMODULEMAIN.ACTCHRENABLEBRUSH.CAPTION"
 msgid "Enable Brush Motor and Disconnect"
-msgstr "启动主刷马达并断开连接"
+msgstr "Enable Brush Motor en Disconnect"
 
 #: tmodulemain.actchrenablevaccum.caption
 msgctxt "TMODULEMAIN.ACTCHRENABLEVACCUM.CAPTION"
 msgid "Enable Vaccum Motor and Disconnect"
-msgstr "启动风机马达并断开连接"
+msgstr "Enable Vacuüm Motor en Disconnect"
 
 #: tmodulemain.actchrset100percentbattery.caption
 msgctxt "TMODULEMAIN.ACTCHRSET100PERCENTBATTERY.CAPTION"
 msgid "Set 100% Battery"
-msgstr "设置当前电量为100%"
+msgstr "Stel 100% Battery"
 
 #: tmodulemain.actconnect.caption
 msgctxt "TMODULEMAIN.ACTCONNECT.CAPTION"
 msgid "Connect"
-msgstr "连接"
+msgstr "aansluiten"
 
 #: tmodulemain.actcopysensordata.caption
 msgctxt "TMODULEMAIN.ACTCOPYSENSORDATA.CAPTION"
 msgid "copy all"
-msgstr "全部复制"
+msgstr "kopieer alle"
 
 #: tmodulemain.actdisconnect.caption
 msgctxt "TMODULEMAIN.ACTDISCONNECT.CAPTION"
 msgid "Disconnect"
-msgstr "断开连接"
+msgstr "Ontkoppelen"
 
 #: tmodulemain.actgetlifestatlog.caption
 msgctxt "TMODULEMAIN.ACTGETLIFESTATLOG.CAPTION"
 msgid "Get Log"
-msgstr "获取记录"
+msgstr "krijg Log"
 
 #: tmodulemain.actremotecontrol.caption
 msgctxt "TMODULEMAIN.ACTREMOTECONTROL.CAPTION"
 msgid "Remote Control (push arrows)"
-msgstr "电脑控制（按键盘方向键）"
+msgstr "Remote Control (push pijlen)"
 
 #: tmodulemain.actscanlds.caption
 msgctxt "TMODULEMAIN.ACTSCANLDS.CAPTION"
 msgid "Scan LDS"
-msgstr "激光扫描"
+msgstr "scan LDS"
 
 #: tmodulemain.actsetcurrenttime.caption
 msgctxt "TMODULEMAIN.ACTSETCURRENTTIME.CAPTION"
 msgid "Set time to Neato from computer"
-msgstr "同步电脑时间到Neato"
+msgstr "Stel tijd om Neato van de computer"
 
 #: tmodulemain.actsetschedule.caption
 msgctxt "TMODULEMAIN.ACTSETSCHEDULE.CAPTION"
 msgid "Save Schedule"
-msgstr "往机器写入计划任务"
+msgstr "Rooster opslaan"
 
 #: tmodulemain.acttestmodeoff.caption
 msgctxt "TMODULEMAIN.ACTTESTMODEOFF.CAPTION"
 msgid "Disable"
-msgstr "禁用"
+msgstr "onbruikbaar maken"
 
 #: tmodulemain.acttestmodeon.caption
 msgctxt "TMODULEMAIN.ACTTESTMODEON.CAPTION"
 msgid "Enable"
-msgstr "启用"
+msgstr "in staat stellen"
 
 #: tfrmmain.chenableschedule.caption
 msgid "Schedule enabled"
-msgstr "启用任务表"
+msgstr "Schedule enabled"
 
 #: tmodulemain.actbtnsendcmd.caption
 msgctxt "tmodulemain.actbtnsendcmd.caption"
 msgid "Run"
-msgstr "运行"
+msgstr "Rennen"
 
 #: tmodulemain.acttestmodeenabled.caption
 msgctxt "TMODULEMAIN.ACTTESTMODEENABLED.CAPTION"
 msgid "Test mode enabled"
-msgstr "开启测试模式"
+msgstr "Test-modus ingeschakeld"
 
 #: ustrres.errorcantopenportcom
 msgctxt "ustrres.errorcantopenportcom"
 msgid "Can't open port COM"
-msgstr "不能打开串口"
+msgstr "Kan poort COM niet openen"
 
 #: ustrres.errorcomportnotdetect
 msgctxt "ustrres.errorcomportnotdetect"
 msgid "COM port not detect"
-msgstr "未检测到串口"
+msgstr "Kan COM-poort niet vinden"
 
 #: ustrres.errorinvalidcomportnumber
 msgctxt "ustrres.errorinvalidcomportnumber"
 msgid "invalid COM port number"
-msgstr "无效的串口号"
+msgstr "ongeldig COM-poortnummer"
 
 #: ustrres.friday
 msgctxt "ustrres.friday"
 msgid "Friday"
-msgstr "星期五"
+msgstr "vrijdag"
 
 #: ustrres.monday
 msgctxt "ustrres.monday"
 msgid "Monday"
-msgstr "星期一"
+msgstr "maandag"
 
 #: ustrres.off
 msgctxt "ustrres.off"
 msgid "off"
-msgstr "关"
+msgstr "uit"
 
 #: ustrres.runtimerinsecond
 msgid "in seconds"
-msgstr "秒"
+msgstr "in seconden"
 
 #: ustrres.saturday
 msgctxt "ustrres.saturday"
 msgid "Saturday"
-msgstr "星期六"
+msgstr "zaterdag"
 
 #: ustrres.sunday
 msgctxt "ustrres.sunday"
 msgid "Sunday"
-msgstr "星期天"
+msgstr "zondag"
 
 #: ustrres.textdisabled
 msgctxt "ustrres.textdisabled"
 msgid "Disabled"
-msgstr "禁用"
+msgstr "Uitgeschakeld"
 
 #: ustrres.textenabled
 msgctxt "ustrres.textenabled"
 msgid "Enabled"
-msgstr "启用"
+msgstr "Ingeschakeld"
 
 #: ustrres.thursda
 msgctxt "ustrres.thursda"
 msgid "Thursday"
-msgstr "星期四"
+msgstr "donderdag"
 
 #: ustrres.tuesday
 msgctxt "ustrres.tuesday"
 msgid "Tuesday"
-msgstr "星期二"
+msgstr "dinsdag"
 
 #: ustrres.wednesday
 msgctxt "ustrres.wednesday"
 msgid "Wednesday"
-msgstr "星期三"
+msgstr "woensdag"
 
