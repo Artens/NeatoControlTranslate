@@ -19,23 +19,23 @@ msgstr "..."
 
 #: tfrmmain.caption
 msgid "Neato Control"
-msgstr "Neato Controle"
+msgstr "Neato Control"
 
 #: tfrmmain.chautoconnect.caption
 msgid "Auto connect on plug"
-msgstr "Auto te sluiten op stekker"
+msgstr "Automatisch koppelen"
 
 #: tfrmmain.chautodetectport.caption
 msgid "Auto detect port number"
-msgstr "Automatische detectie poortnummer"
+msgstr "Automatisch COM-poort herkennen"
 
 #: tfrmmain.checkbox1.caption
 msgid "require rotate the robot to the up"
-msgstr "vereisen draai de robot naar de up"
+msgstr "Draai de robot met wielen omhoog"
 
 #: tfrmmain.chsavelogtofile.caption
 msgid "Save log to file"
-msgstr "Log opslaan naar bestand"
+msgstr "Logbestand opslaan"
 
 #: tfrmmain.chsensorauto.caption
 msgid "Auto update"
@@ -43,7 +43,7 @@ msgstr "Auto update"
 
 #: tfrmmain.chseparatecmd.caption
 msgid "Separate all cmd \"===\""
-msgstr "Afzonderlijke alle cmd \"===\""
+msgstr "Splits commando's met \"===\""
 
 #: tfrmmain.edlogfilename.text
 msgid "log.txt"
@@ -51,7 +51,7 @@ msgstr "log.txt"
 
 #: tfrmmain.edtranslateauthor.text
 msgid "Translate author: heX"
-msgstr "Vertalen door Vidicon"
+msgstr "Vertaling door: meerdere"
 
 #: tfrmmain.groupbox5.caption
 msgid "Version:"
@@ -59,11 +59,11 @@ msgstr "Versie:"
 
 #: tfrmmain.groupboxtimers.caption
 msgid "Timers:"
-msgstr "timers:"
+msgstr "Timers:"
 
 #: tfrmmain.label13.caption
 msgid "Commands list:"
-msgstr "Commando's lijst:"
+msgstr "Commandolijst:"
 
 #: tfrmmain.label2.caption
 msgid "Step 1:"
@@ -135,11 +135,11 @@ msgstr "Scanner"
 
 #: tfrmmain.tabsheet2.caption
 msgid "Sensors"
-msgstr "sensoren"
+msgstr "Sensoren"
 
 #: tfrmmain.tabsheet3.caption
 msgid "Options"
-msgstr "opties"
+msgstr "Opties"
 
 #: tfrmmain.tabsheet4.caption
 msgid "Recharge"
@@ -173,7 +173,7 @@ msgstr "Borstel"
 
 #: tfrmmain.chleftwheel.caption
 msgid "Left Wheel"
-msgstr "linker wiel"
+msgstr "Linker wiel"
 
 #: tfrmmain.chrightwheel.caption
 msgid "Right Wheel"
@@ -181,16 +181,16 @@ msgstr "Rechter wiel"
 
 #: tfrmmain.chsidebrush.caption
 msgid "Side Brush"
-msgstr "Zij borstel"
+msgstr "Zijborstel"
 
 #: tfrmmain.chvacuum.caption
 msgid "Vacuum"
-msgstr "Vacuüm\n"
+msgstr "Vacuüm"
 ""
 
 #: tfrmmain.label8.caption
 msgid "Translate: https://poeditor.com/join/project/EdLcbGzBsR"
-msgstr "Translate: https://poeditor.com/join/project/EdLcbGzBsR"
+msgstr "Vertalingen: https://poeditor.com/join/project/EdLcbGzBsR"
 
 #: tfrmmain.lifestatlog.caption
 msgid "LifeStatLog"
@@ -198,58 +198,58 @@ msgstr "LifeStatLog"
 
 #: tfrmmain.tabsheet1.caption
 msgid "Motors"
-msgstr "Motors"
+msgstr "Motoren"
 
 #: tfrmmain.label9.caption
 msgid "WARNING: Rotate the robot so the wheels are facing up before enable wheels motor!"
-msgstr "LET OP: Haal de wielen van de grond voordat je de wielmotors start."
+msgstr "LET OP: Draai robot met wielen omhoog voordat je de wielmotoren activeert!"
 
 #: ustrres.disable
 msgctxt "ustrres.disable"
 msgid "Disable"
-msgstr "Uitschakelen"
+msgstr "Deactiveren"
 
 #: ustrres.enable
 msgctxt "ustrres.enable"
 msgid "Enable"
-msgstr "Inschakelen"
+msgstr "Activeren"
 
 #: tfrmmain.chdrawradialstate.caption
 msgid "Show state"
-msgstr "Show staat"
+msgstr "Toestand tonen"
 
 #: tfrmmain.chdrawradialstate.hint
 msgid "Blue - intensity, Green - length, Red - error, Black - not visible"
-msgstr "Blauw - intensiteit, Green - lengte, Rood - error, Zwart - niet zichtbaar"
+msgstr "Blauw - intensiteit, Groen - lengte, Rood - fout, Zwart - uit zicht"
 
 #: tfrmmain.groupbox4.caption
 msgid "Schedule"
-msgstr "rooster"
+msgstr "Rooster"
 
 #: tmodulemain.actchrenablebrush.caption
 msgctxt "TMODULEMAIN.ACTCHRENABLEBRUSH.CAPTION"
 msgid "Enable Brush Motor and Disconnect"
-msgstr "Enable Brush Motor en Disconnect"
+msgstr "Activeer borstel motor en ontkoppel"
 
 #: tmodulemain.actchrenablevaccum.caption
 msgctxt "TMODULEMAIN.ACTCHRENABLEVACCUM.CAPTION"
 msgid "Enable Vaccum Motor and Disconnect"
-msgstr "Enable Vacuüm Motor en Disconnect"
+msgstr "Activeer vacuüm motor en ontkoppel"
 
 #: tmodulemain.actchrset100percentbattery.caption
 msgctxt "TMODULEMAIN.ACTCHRSET100PERCENTBATTERY.CAPTION"
 msgid "Set 100% Battery"
-msgstr "Stel 100% Battery"
+msgstr "Zet accu percentage op 100%"
 
 #: tmodulemain.actconnect.caption
 msgctxt "TMODULEMAIN.ACTCONNECT.CAPTION"
 msgid "Connect"
-msgstr "aansluiten"
+msgstr "Koppelen"
 
 #: tmodulemain.actcopysensordata.caption
 msgctxt "TMODULEMAIN.ACTCOPYSENSORDATA.CAPTION"
 msgid "copy all"
-msgstr "kopieer alle"
+msgstr "Kopieer alles"
 
 #: tmodulemain.actdisconnect.caption
 msgctxt "TMODULEMAIN.ACTDISCONNECT.CAPTION"
@@ -259,7 +259,7 @@ msgstr "Ontkoppelen"
 #: tmodulemain.actgetlifestatlog.caption
 msgctxt "TMODULEMAIN.ACTGETLIFESTATLOG.CAPTION"
 msgid "Get Log"
-msgstr "krijg Log"
+msgstr "Log ophalen"
 
 #: tmodulemain.actremotecontrol.caption
 msgctxt "TMODULEMAIN.ACTREMOTECONTROL.CAPTION"
@@ -269,12 +269,12 @@ msgstr "Remote Control (push pijlen)"
 #: tmodulemain.actscanlds.caption
 msgctxt "TMODULEMAIN.ACTSCANLDS.CAPTION"
 msgid "Scan LDS"
-msgstr "scan LDS"
+msgstr "Scan LDS"
 
 #: tmodulemain.actsetcurrenttime.caption
 msgctxt "TMODULEMAIN.ACTSETCURRENTTIME.CAPTION"
 msgid "Set time to Neato from computer"
-msgstr "Stel tijd om Neato van de computer"
+msgstr "Neem computer tijd over op Neato"
 
 #: tmodulemain.actsetschedule.caption
 msgctxt "TMODULEMAIN.ACTSETSCHEDULE.CAPTION"
@@ -284,31 +284,31 @@ msgstr "Rooster opslaan"
 #: tmodulemain.acttestmodeoff.caption
 msgctxt "TMODULEMAIN.ACTTESTMODEOFF.CAPTION"
 msgid "Disable"
-msgstr "onbruikbaar maken"
+msgstr "Deactiveren"
 
 #: tmodulemain.acttestmodeon.caption
 msgctxt "TMODULEMAIN.ACTTESTMODEON.CAPTION"
 msgid "Enable"
-msgstr "in staat stellen"
+msgstr "Activeren"
 
 #: tfrmmain.chenableschedule.caption
 msgid "Schedule enabled"
-msgstr "Schedule enabled"
+msgstr "Rooster actief"
 
 #: tmodulemain.actbtnsendcmd.caption
 msgctxt "tmodulemain.actbtnsendcmd.caption"
 msgid "Run"
-msgstr "Rennen"
+msgstr "Start"
 
 #: tmodulemain.acttestmodeenabled.caption
 msgctxt "TMODULEMAIN.ACTTESTMODEENABLED.CAPTION"
 msgid "Test mode enabled"
-msgstr "Test-modus ingeschakeld"
+msgstr "Test-modus actief"
 
 #: ustrres.errorcantopenportcom
 msgctxt "ustrres.errorcantopenportcom"
 msgid "Can't open port COM"
-msgstr "Kan poort COM niet openen"
+msgstr "Kan COM-poort niet openen"
 
 #: ustrres.errorcomportnotdetect
 msgctxt "ustrres.errorcomportnotdetect"
@@ -318,22 +318,22 @@ msgstr "Kan COM-poort niet vinden"
 #: ustrres.errorinvalidcomportnumber
 msgctxt "ustrres.errorinvalidcomportnumber"
 msgid "invalid COM port number"
-msgstr "ongeldig COM-poortnummer"
+msgstr "Ongeldig COM-poortnummer"
 
 #: ustrres.friday
 msgctxt "ustrres.friday"
 msgid "Friday"
-msgstr "vrijdag"
+msgstr "Vrijdag"
 
 #: ustrres.monday
 msgctxt "ustrres.monday"
 msgid "Monday"
-msgstr "maandag"
+msgstr "Maandag"
 
 #: ustrres.off
 msgctxt "ustrres.off"
 msgid "off"
-msgstr "uit"
+msgstr "Uit"
 
 #: ustrres.runtimerinsecond
 msgid "in seconds"
@@ -342,35 +342,35 @@ msgstr "in seconden"
 #: ustrres.saturday
 msgctxt "ustrres.saturday"
 msgid "Saturday"
-msgstr "zaterdag"
+msgstr "Zaterdag"
 
 #: ustrres.sunday
 msgctxt "ustrres.sunday"
 msgid "Sunday"
-msgstr "zondag"
+msgstr "Zondag"
 
 #: ustrres.textdisabled
 msgctxt "ustrres.textdisabled"
 msgid "Disabled"
-msgstr "Uitgeschakeld"
+msgstr "Deactief"
 
 #: ustrres.textenabled
 msgctxt "ustrres.textenabled"
 msgid "Enabled"
-msgstr "Ingeschakeld"
+msgstr "Actief"
 
 #: ustrres.thursda
 msgctxt "ustrres.thursda"
 msgid "Thursday"
-msgstr "donderdag"
+msgstr "Donderdag"
 
 #: ustrres.tuesday
 msgctxt "ustrres.tuesday"
 msgid "Tuesday"
-msgstr "dinsdag"
+msgstr "Dinsdag"
 
 #: ustrres.wednesday
 msgctxt "ustrres.wednesday"
 msgid "Wednesday"
-msgstr "woensdag"
+msgstr "Woensdag"
 
